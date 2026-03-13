@@ -57,6 +57,12 @@ Rating factors adjust the base rate for individual risk characteristics:
 | **Protective devices** | Alarms, deadbolts, smoke detectors = credits |
 | **Roof type and age** | Major factor — old roofs or wood shingles cost more |
 
+#### ITV Rating Characteristics & Replacement Cost
+
+The coverage amount factor above depends on an accurate **Insurance to Value (ITV)** calculation. Verisk's research identified **25 property characteristics** that drive replacement cost estimation — 9 primary (year built, square footage, quality grade, number of stories, foundation type, finished % of lowest level, exterior wall finish, garage/carport, fireplaces) and 16 secondary (bathroom count, floor covering, cooling system, roof cover, kitchen count, kitchen counters, heating, property slope, site access, interior wall finish, foundation shape, roof shape, wall height, exterior wall construction, foundation material, interior wall material).
+
+The more of these characteristics captured during quoting and underwriting, the more accurate the ITV — which directly affects both premium adequacy and whether the insured triggers a coinsurance penalty after a loss. See [Homeowners: ITV Rating Characteristics](01-homeowners.md#the-25-itv-rating-characteristics) for the full breakdown.
+
 ### Auto Rating Factors
 
 | Factor | Impact |

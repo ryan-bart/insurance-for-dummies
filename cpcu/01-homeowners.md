@@ -137,7 +137,7 @@ The mortgage company is a separate insured with independent rights:
 - Their coverage isn't voided by the homeowner's actions
 - They must be notified of cancellation (usually 30 days)
 
-### Insurance to Value / Coinsurance
+### Insurance to Value (ITV) / Coinsurance
 Most HO policies require you to insure to at least **80% of replacement cost** to receive full replacement cost benefits. If you're underinsured:
 
 > **Penalty formula**: (Amount carried / Amount required) x Loss = Payment
@@ -148,6 +148,47 @@ Example: Home's replacement cost is $400,000. You insure for $240,000 (75% — b
 > 0.75 x $100,000 = **$75,000 payment**
 
 You eat the other $25,000.
+
+#### The 25 ITV Rating Characteristics
+
+Getting ITV right starts with accurately estimating replacement cost. Verisk's research (based on 450+ total-loss properties) identified **25 property characteristics** that drive replacement cost estimation, split into two tiers:
+
+**Primary Characteristics (9)** — these provide the most reliable estimate with the fewest data points:
+
+| # | Characteristic | Why It Matters |
+|---|----------------|---------------|
+| 1 | Year built | Older homes use different materials, methods, and may trigger code upgrades |
+| 2 | Total finished square feet | Most directly correlated with rebuild cost |
+| 3 | Quality grade | Builder-grade vs. custom finishes drastically changes cost per sq ft |
+| 4 | Number of stories | Multi-story homes cost more to rebuild (scaffolding, structural complexity) |
+| 5 | Foundation type | Slab vs. crawlspace vs. basement affects cost significantly |
+| 6 | Finished % of lowest level | A finished basement adds rebuild cost a bare one doesn't |
+| 7 | Exterior wall finish | Brick, vinyl, stucco, stone — material and labor costs vary widely |
+| 8 | Garage/carport | Attached/detached garage, carport, or none |
+| 9 | Fireplaces | Masonry fireplaces are expensive to rebuild |
+
+**Secondary Characteristics (16)** — adding any 9 of these brings the estimate within 4% of a full baseline valuation:
+
+| # | Characteristic |
+|---|----------------|
+| 10 | Bathroom count |
+| 11 | Floor covering |
+| 12 | Cooling system |
+| 13 | Roof cover |
+| 14 | Kitchen count |
+| 15 | Kitchen counters |
+| 16 | Heating system |
+| 17 | Property slope |
+| 18 | Site access |
+| 19 | Interior wall finish |
+| 20 | Foundation shape |
+| 21 | Roof shape |
+| 22 | Average wall height |
+| 23 | Exterior wall construction |
+| 24 | Foundation material |
+| 25 | Interior wall material |
+
+**Why this matters for the exam and practice**: When a homeowner is underinsured, it's often because the replacement cost estimate was based on incomplete property data. The more of these 25 characteristics that are captured accurately, the closer the ITV ratio is to reality — and the less likely the coinsurance penalty kicks in after a loss.
 
 ---
 
