@@ -2,30 +2,40 @@
 
 ## Status Key
 - Done
-- In Progress
 - Not Started
 
 ## CPCU Files (cpcu/)
-- Not Started — 01-homeowners.md
-- Not Started — 02-personal-auto.md
-- Not Started — 03-inland-marine-other-property.md
-- Not Started — 04-life-insurance.md
-- Not Started — 05-health-disability.md
-- Not Started — 06-umbrella-excess.md
-- Not Started — 07-personal-risk-assessment.md
-- Not Started — 08-underwriting-personal-lines.md
-- Not Started — 09-rating-pricing.md
-- Not Started — 10-claims-handling.md
-- Not Started — 11-distribution-marketing.md
-- Not Started — 12-regulatory-compliance.md
+- Done — 01-homeowners.md
+- Done — 02-personal-auto.md
+- Done — 03-inland-marine-other-property.md
+- Done — 04-life-insurance.md
+- Done — 05-health-disability.md
+- Done — 06-umbrella-excess.md
+- Done — 07-personal-risk-assessment.md
+- Done — 08-underwriting-personal-lines.md
+- Done — 09-rating-pricing.md
+- Done — 10-claims-handling.md
+- Done — 11-distribution-marketing.md
+- Done — 12-regulatory-compliance.md
 
 ## CIC Files (cic/)
-- Not Started — 01-homeowners.md
-- Not Started — 02-personal-auto.md
-- Not Started — 03-umbrella-excess.md
-- Not Started — 04-special-exposures.md
+- Done — 01-homeowners.md
+- Done — 02-personal-auto.md
+- Done — 03-umbrella-excess.md
+- Done — 04-special-exposures.md
 
 ## Combined Files (combined/)
-- Not Started — 01-cross-reference.md
-- Not Started — 02-glossary.md
-- Not Started — 03-practice-exam.md
+- Done — 01-cross-reference.md
+- Done — 02-glossary.md
+- Done — 03-practice-exam.md
+
+## V1 Complete
+All 19 content files written. README and progress tracker in place.
+
+## Potential V2 Enhancements
+- Add more practice questions per chapter
+- Add case studies / client scenario walkthroughs
+- Add study schedule / timeline recommendations
+- Add links to official study resources
+- Expand glossary with more terms
+- Add diagrams (coverage stacking, policy structure)
