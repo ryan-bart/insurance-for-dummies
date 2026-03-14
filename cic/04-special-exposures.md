@@ -15,8 +15,8 @@ Standard homeowners and auto policies were designed for a simpler world. Today's
 ### Home-Based Businesses
 
 The HO-3 severely limits business coverage:
-- **Business property on premises**: $2,500
-- **Business property off premises**: $500
+- **Business property on premises**: $2,500 (ISO, HO 00 03, 2011)
+- **Business property off premises**: $500 (ISO, HO 00 03, 2011)
 - **Business liability**: Excluded under Coverage E
 
 **Common home businesses that create gaps:**
@@ -30,7 +30,7 @@ The HO-3 severely limits business coverage:
 
 | Solution | What It Does | Best For |
 |----------|-------------|----------|
-| **Home business endorsement** | Increases property limits ($10K–$20K) and adds liability ($300K–$1M) | Low-risk businesses, no employees, no foot traffic |
+| **Home business endorsement** | Increases property limits ($10K–$20K) and adds liability ($300K–$1M) (III, 2025) | Low-risk businesses, no employees, no foot traffic |
 | **In-home business policy** | Standalone policy with broader property and liability | Moderate businesses with some inventory/equipment |
 | **Business owners policy (BOP)** | Full commercial coverage | Serious businesses, employees, significant revenue |
 
@@ -67,15 +67,15 @@ Renting your home (or part of it) on Airbnb, Vrbo, etc. creates multiple gaps:
 
 | Item | HO Liability | HO Property |
 |------|-------------|-------------|
-| Boat <26 ft, low HP | Yes | $1,500 sub-limit |
-| Boat 26+ ft | No | No |
+| Boat <26 ft, low HP | Yes | $1,500 sub-limit (ISO, HO 00 03, 2011) |
+| Boat 26+ ft (ISO, HO 00 03, 2011) | No | No |
 | Jet ski / PWC | No | No |
 | ATV / UTV | Limited (off-road, on premises) | No |
 | Snowmobile | Limited | No |
 | Golf cart (on course) | Sometimes | No |
 | Motorcycle | No | No |
-| E-bike (Class 1-2) | Usually yes | Usually yes |
-| E-bike (Class 3 / high-speed) | Maybe not | Maybe not |
+| E-bike (Class 1-2) (CPSC/PeopleForBikes, 2024) | Usually yes | Usually yes |
+| E-bike (Class 3 / high-speed) (CPSC/PeopleForBikes, 2024) | Maybe not | Maybe not |
 
 **Agent action**: Ask clients about recreational vehicles at every renewal. A single question — "Have you acquired any boats, ATVs, motorcycles, or other recreational vehicles?" — can prevent major E&O exposure.
 
@@ -88,9 +88,9 @@ Renting your home (or part of it) on Airbnb, Vrbo, etc. creates multiple gaps:
 Standard HO policies may not adequately cover luxury homes. High-value home programs (Chubb, PURE, AIG Private Client, Cincinnati) offer:
 
 - **Guaranteed replacement cost**: Pays to rebuild regardless of cost (no coinsurance penalty)
-- **Extended replacement cost**: 125%–150% of Coverage A
+- **Extended replacement cost**: 125%–150% of Coverage A (III, 2025)
 - **Cash settlement option**: Take the cash instead of rebuilding
-- **Higher liability limits**: $1M+ built in
+- **Higher liability limits**: $1M+ built in (III, 2025)
 - **Broader water damage coverage**: Including sewer backup
 - **Equipment breakdown included**
 - **Worldwide personal property coverage** on open-peril basis
@@ -118,7 +118,7 @@ What it covers:
 - **Case management**: Some policies include a specialist who helps resolve the issue
 - Does NOT cover the stolen money itself (that's a bank/credit card issue)
 
-Usually available as an endorsement for $25–$50/year with $15,000–$25,000 limits.
+Usually available as an endorsement for $25–$50/year with $15,000–$25,000 limits (III, 2025).
 
 ---
 
@@ -142,8 +142,8 @@ Some homeowners carriers now offer personal cyber endorsements. Standalone perso
 - Standard HO excludes **aircraft liability**
 - A recreational drone that injures someone or damages property = no coverage
 - **Solutions**: Drone liability endorsement, standalone drone insurance
-- FAA registration required for drones over 0.55 lbs
-- Commercial drone use requires a Part 107 license AND commercial coverage
+- FAA registration required for drones over 0.55 lbs (FAA, 14 CFR Part 107, 2016)
+- Commercial drone use requires a Part 107 license (FAA, 14 CFR Part 107, 2016) AND commercial coverage
 
 ### Electric Vehicles
 
@@ -160,13 +160,13 @@ Some homeowners carriers now offer personal cyber endorsements. Standalone perso
 
 - **Owned panels**: Part of the dwelling — covered under Coverage A
 - **Leased panels**: NOT your property — the leasing company insures them, but verify
-- **Coverage A adequacy**: Solar panels add $15K–$30K+ to replacement cost. Increase Coverage A.
+- **Coverage A adequacy**: Solar panels add $15K–$30K+ to replacement cost (EnergySage, 2025). Increase Coverage A.
 - **Liability**: If panels detach in a storm and injure someone, Coverage E responds
 - **Lost energy income**: If panels are damaged and you lose net metering credits, this is NOT covered under a standard HO
 
 ### Home EV Chargers
 
-- Level 2 (240V hardwired): Part of the dwelling, covered under Coverage A
+- Level 2 (240V) hardwired: Part of the dwelling, covered under Coverage A (DOE, 2025)
 - Damage from electrical surge: May need equipment breakdown endorsement
 - Liability from a guest using your charger and getting injured: Coverage E should respond
 
@@ -203,7 +203,7 @@ A systematic approach to identifying gaps at every renewal:
 
 <details>
 <summary>Answer</summary>
-$2,500 — the business personal property on-premises sub-limit. The remaining $5,500 is uninsured. They need at minimum a home business endorsement, or potentially a separate business policy if the operation is growing.
+$2,500 (ISO, HO 00 03, 2011) — the business personal property on-premises sub-limit. The remaining $5,500 is uninsured. They need at minimum a home business endorsement, or potentially a separate business policy if the operation is growing.
 </details>
 
 **2.** A client lists their guest bedroom on Airbnb. They don't mention it to their agent. A guest is injured and sues. Does the HO respond?
@@ -238,12 +238,17 @@ E&O protection. If a client suffers an uninsured loss and claims the agent never
 
 ## Sources
 
-1. FAA, "How to Register Your Drone," accessed 2025. [faa.gov](https://www.faa.gov/uas/getting_started/register_drone)
-2. FAA, "Recreational Flyers & Community-Based Organizations," accessed 2025. [faa.gov](https://www.faa.gov/uas/recreational_flyers)
-3. EnergySage, "Solar Panel Cost in 2025," 2025. [energysage.com](https://www.energysage.com/local-data/solar-panel-cost/)
-4. Insurance Information Institute, "Homeowners 3 — Special Form (HO 00 03)," sample policy. [iii.org](https://www.iii.org/sites/default/files/docs/pdf/HO3_sample.pdf)
-5. NerdWallet, "What Is Water Backup Coverage?" 2025. [nerdwallet.com](https://www.nerdwallet.com/article/insurance/water-backup-coverage)
-6. Insurance Information Institute, "Identity Theft and Cybercrime," accessed 2025. [iii.org](https://www.iii.org/article/identity-theft-and-cybercrime)
+1. ISO, "Homeowners 3 — Special Form (HO 00 03)," 2011 edition. Referenced for standard HO-3 limits: $2,500 business property on premises, $500 off premises, $1,500 watercraft sub-limit, 26 ft boat threshold.
+2. FAA, 14 CFR Part 107, "Small Unmanned Aircraft Systems," 2016. [ecfr.gov](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107). Referenced for 0.55 lb registration threshold and Part 107 commercial license requirement.
+3. FAA, "How to Register Your Drone," accessed 2025. [faa.gov](https://www.faa.gov/uas/getting_started/register_drone)
+4. FAA, "Recreational Flyers & Community-Based Organizations," accessed 2025. [faa.gov](https://www.faa.gov/uas/recreational_flyers)
+5. EnergySage, "Solar Panel Cost in 2025," 2025. [energysage.com](https://www.energysage.com/local-data/solar-panel-cost/). Referenced for $15K–$30K+ residential solar panel cost range.
+6. Insurance Information Institute (III), "Homeowners Insurance," accessed 2025. [iii.org](https://www.iii.org/article/homeowners-insurance). Referenced for home business endorsement ranges ($10K–$20K property, $300K–$1M liability), extended replacement cost (125%–150%), high-value home $1M+ liability, and identity theft endorsement pricing ($25–$50/year, $15,000–$25,000 limits).
+7. Insurance Information Institute, "Homeowners 3 — Special Form (HO 00 03)," sample policy. [iii.org](https://www.iii.org/sites/default/files/docs/pdf/HO3_sample.pdf)
+8. CPSC/PeopleForBikes, "E-Bike Classification Guide," 2024. Referenced for Class 1 (pedal-assist up to 20 mph), Class 2 (throttle-assist up to 20 mph), and Class 3 (pedal-assist up to 28 mph) definitions.
+9. U.S. Department of Energy (DOE), "Home Charging," 2025. [energy.gov](https://www.energy.gov/energysaver/electricity-and-fuel). Referenced for Level 2 (240V) EV charger specification.
+10. NerdWallet, "What Is Water Backup Coverage?" 2025. [nerdwallet.com](https://www.nerdwallet.com/article/insurance/water-backup-coverage)
+11. Insurance Information Institute, "Identity Theft and Cybercrime," accessed 2025. [iii.org](https://www.iii.org/article/identity-theft-and-cybercrime)
 
 ---
 

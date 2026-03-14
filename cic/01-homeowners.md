@@ -16,37 +16,37 @@ This is the CIC perspective — practical, form-driven, and focused on what agen
 The dwelling and attached structures at the described location.
 
 **Agent tips:**
-- Always insure to **100% of replacement cost** — not market value, not the mortgage balance
+- Always insure to **100% of replacement cost** (ISO, HO 00 03, 2011) — not market value, not the mortgage balance
 - Use a replacement cost estimator (Marshall & Swift, CoreLogic) — don't guess
 - Renovation? Update Coverage A immediately — a $50K kitchen remodel increases replacement cost
 - **Ordinance or law** endorsement is critical for older homes — base policy only pays to rebuild what was there, not what current code requires
 
-### Coverage B — Other Structures (10% of A)
+### Coverage B — Other Structures (10% of A) (ISO, HO 00 03, 2011)
 Detached garage, shed, fence, pool, guest house.
 
 **What agents miss:**
 - Structures **used for business** are excluded (e.g., a detached workshop where the insured runs a business)
 - Structures **rented to non-tenants** are excluded (renting out a detached garage to a neighbor)
-- If 10% isn't enough (large detached garage, pool house), you can endorse for higher limits
+- If 10% (ISO, HO 00 03, 2011) isn't enough (large detached garage, pool house), you can endorse for higher limits
 
-### Coverage C — Personal Property (50% of A)
+### Coverage C — Personal Property (50% of A) (ISO, HO 00 03, 2011)
 
 **Sub-limits that burn agents:**
 
 | Category | Sub-Limit | What to Do |
 |----------|-----------|-----------|
-| Cash, bank notes | $200 | Nothing — this is intentional |
-| Securities, manuscripts | $1,500 | Scheduled floater if high value |
-| Watercraft + equipment | $1,500 | Separate boat policy |
-| Jewelry, watches, furs | $1,500 | **Schedule these.** Most common gap |
-| Firearms | $2,500 | Schedule if collection |
-| Silverware/goldware | $2,500 | Schedule if high value |
-| Business property (on premises) | $2,500 | Home business endorsement |
-| Business property (off premises) | $500 | Home business endorsement |
+| Cash, bank notes | $200 (ISO, HO 00 03, 2011) | Nothing — this is intentional |
+| Securities, manuscripts | $1,500 (ISO, HO 00 03, 2011) | Scheduled floater if high value |
+| Watercraft + equipment | $1,500 (ISO, HO 00 03, 2011) | Separate boat policy |
+| Jewelry, watches, furs | $1,500 (ISO, HO 00 03, 2011) | **Schedule these.** Most common gap |
+| Firearms | $2,500 (ISO, HO 00 03, 2011) | Schedule if collection |
+| Silverware/goldware | $2,500 (ISO, HO 00 03, 2011) | Schedule if high value |
+| Business property (on premises) | $2,500 (ISO, HO 00 03, 2011) | Home business endorsement |
+| Business property (off premises) | $500 (ISO, HO 00 03, 2011) | Home business endorsement |
 
 **Replacement cost on contents**: The base HO-3 pays **ACV** on personal property. You must add the **Replacement Cost on Contents** endorsement for replacement cost. Most clients don't know this.
 
-### Coverage D — Loss of Use (30% of A)
+### Coverage D — Loss of Use (30% of A) (ISO, HO 00 03, 2011)
 
 Additional living expenses (ALE) when the home is uninhabitable due to a covered loss.
 
@@ -55,31 +55,31 @@ Additional living expenses (ALE) when the home is uninhabitable due to a covered
 - Fair rental value (if part of the home was rented)
 - Prohibited use (civil authority bars you from the home)
 
-**Agent tip**: ALE claims can be enormous after a total loss. 30% of Coverage A is usually adequate, but for high-end homes in high-cost-of-living areas, consider increasing it.
+**Agent tip**: ALE claims can be enormous after a total loss. 30% of Coverage A (ISO, HO 00 03, 2011) is usually adequate, but for high-end homes in high-cost-of-living areas, consider increasing it.
 
 ---
 
 ## The HO-3: Section II (Liability)
 
-### Coverage E — Personal Liability ($100,000 default)
+### Coverage E — Personal Liability ($100,000 default) (ISO, HO 00 03, 2011)
 Covers bodily injury and property damage claims against the insured.
 
 **Key for agents:**
-- $100K is dangerously low — recommend at least $300K, ideally $500K to support an umbrella
+- $100K (ISO, HO 00 03, 2011) is dangerously low — recommend at least $300K, ideally $500K (III, 2025) to support an umbrella
 - Covers the insured **worldwide**
 - Defense costs are **in addition to** the limit (unlike some commercial policies)
 - Covers all residence premises, not just the described location
 
-### Coverage F — Medical Payments to Others ($1,000 default)
+### Coverage F — Medical Payments to Others ($1,000 default) (ISO, HO 00 03, 2011)
 Pays medical expenses for others injured on your premises, regardless of fault.
 
 - **No-fault** — designed to prevent small injuries from becoming lawsuits
 - Does not cover the insured's own family
-- Recommend increasing to $5,000
+- Recommend increasing to $5,000 (III, 2025)
 
 ---
 
-## The 16 Named Perils (Coverage C on HO-3)
+## The 16 Named Perils (Coverage C on HO-3) (ISO, HO 00 03, 2011)
 
 Personal property under the HO-3 is **named peril** coverage. The perils are:
 
@@ -122,13 +122,13 @@ Personal property under the HO-3 is **named peril** coverage. The perils are:
 
 | Coverage | What It Does | Limit |
 |----------|-------------|-------|
-| **Debris removal** | Pays to haul away damaged property | 5% of Coverage A (additional) |
-| **Fire department charges** | Fees charged by fire department | $500 |
-| **Property removed** | Covers property moved to protect it from a covered peril | 30 days of coverage |
-| **Credit card/fund transfer** | Loss from unauthorized use | $500 |
-| **Lock replacement** | Replaces locks if keys are stolen | $500 (some forms) |
+| **Debris removal** | Pays to haul away damaged property | 5% of Coverage A (additional) (ISO, HO 00 03, 2011) |
+| **Fire department charges** | Fees charged by fire department | $500 (ISO, HO 00 03, 2011) |
+| **Property removed** | Covers property moved to protect it from a covered peril | 30 days of coverage (ISO, HO 00 03, 2011) |
+| **Credit card/fund transfer** | Loss from unauthorized use | $500 (ISO, HO 00 03, 2011) |
+| **Lock replacement** | Replaces locks if keys are stolen | $500 (some forms) (ISO, HO 00 03, 2011) |
 | **Collapse** | Additional coverage for building collapse from specified causes | Full |
-| **Landlord furnishings** | Covers appliances/furnishings in a rented unit | $2,500 |
+| **Landlord furnishings** | Covers appliances/furnishings in a rented unit | $2,500 (ISO, HO 00 03, 2011) |
 
 ---
 
@@ -153,7 +153,7 @@ Personal property under the HO-3 is **named peril** coverage. The perils are:
 When reviewing a client's homeowners policy, agents should ask:
 
 1. **Has your home been renovated or improved?** (Coverage A adequacy)
-2. **Do you have jewelry, art, or collections worth more than $1,500?** (Schedule them)
+2. **Do you have jewelry, art, or collections worth more than $1,500 (ISO, HO 00 03, 2011)?** (Schedule them)
 3. **Do you have a sump pump or live in an area with sewer backup risk?** (Water backup endorsement)
 4. **Is your home older than 30 years?** (Ordinance or law endorsement)
 5. **Do you run any business from home?** (Home business endorsement)
@@ -168,7 +168,7 @@ When reviewing a client's homeowners policy, agents should ask:
 
 <details>
 <summary>Answer</summary>
-$1,500 — the jewelry sub-limit. The $400K Coverage A and $200K Coverage C don't matter because the sub-limit caps the payout for this category. The client needed a scheduled personal property endorsement.
+$1,500 (ISO, HO 00 03, 2011) — the jewelry sub-limit. The $400K Coverage A and $200K Coverage C (50% of A) (ISO, HO 00 03, 2011) don't matter because the sub-limit caps the payout for this category. The client needed a scheduled personal property endorsement.
 </details>
 
 **2.** A pipe bursts suddenly inside the wall, causing $15,000 in water damage to the kitchen. Is this covered under the HO-3?
@@ -182,7 +182,7 @@ Yes. "Accidental discharge or overflow of water or steam" from within a plumbing
 
 <details>
 <summary>Answer</summary>
-Nothing. Sewer backup is excluded from the base HO-3 policy. This is why the water backup/sump overflow endorsement is the #1 endorsement agents should be adding. It typically costs $30-$75/year for $5,000-$25,000 in coverage.
+Nothing. Sewer backup is excluded from the base HO-3 policy. This is why the water backup/sump overflow endorsement is the #1 endorsement agents should be adding. It typically costs $30-$75/year (Progressive, 2025) for $5,000-$25,000 (NerdWallet, 2025) in coverage.
 </details>
 
 **4.** After a fire, the city requires the homeowner to upgrade the electrical system to current code — an additional $30,000 cost. Does the HO-3 pay?
@@ -196,7 +196,7 @@ No, not without the Ordinance or Law endorsement. The base policy only pays to r
 
 <details>
 <summary>Answer</summary>
-Named peril. The HO-3 is a hybrid: the dwelling (Coverage A and B) is open peril, but personal property (Coverage C) is covered only for the 16 specifically named perils. This is one of the most commonly tested concepts. For open-peril coverage on personal property, you need an HO-5 form.
+Named peril. The HO-3 is a hybrid: the dwelling (Coverage A and B) is open peril, but personal property (Coverage C) is covered only for the 16 specifically named perils (ISO, HO 00 03, 2011). This is one of the most commonly tested concepts. For open-peril coverage on personal property, you need an HO-5 form.
 </details>
 
 ---

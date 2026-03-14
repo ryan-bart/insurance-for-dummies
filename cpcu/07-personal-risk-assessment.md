@@ -42,7 +42,7 @@ Costs of medical care and long-term care.
 - **Acute illness or injury**: Hospital, surgery, emergency
 - **Chronic conditions**: Ongoing treatment and medication
 - **Long-term care**: Custodial care needs in old age
-- **Key consideration**: Medical costs are a leading contributor to personal bankruptcy in the U.S. — research estimates roughly two-thirds of bankruptcy filers cite medical issues as a key factor
+- **Key consideration**: Medical costs are a leading contributor to personal bankruptcy in the U.S. — research estimates roughly two-thirds of bankruptcy filers cite medical issues as a key factor (Himmelstein et al., 2019)
 
 ---
 
@@ -106,11 +106,11 @@ Life changes. Review annually or when:
 - **Best**: Maximum available through an umbrella — it's cheap relative to the protection
 
 ### Life Insurance
-- **Common rules of thumb**: 10x income, or enough to replace income for X years
+- **Common rules of thumb**: 10x income (III, 2024), or enough to replace income for X years
 - **Better approach**: Calculate actual needs — mortgage payoff, education costs, income replacement, final expenses, minus existing assets
 
 ### Disability Insurance
-- Target **60–70% of gross income**
+- Target **60–70% of gross income** (III, 2024)
 - Own-occupation definition if available
 - Benefit period to age 65
 
@@ -121,7 +121,7 @@ Life changes. Review annually or when:
 | Gap | Why It Happens | Solution |
 |-----|---------------|----------|
 | Underinsured dwelling | Haven't updated since purchase/renovation | Annual replacement cost review |
-| No flood coverage | "I'm not in a flood zone" | NFIP or private flood (over 25% of NFIP flood claims come from outside high-risk zones) |
+| No flood coverage | "I'm not in a flood zone" | NFIP or private flood (over 25% of NFIP flood claims come from outside high-risk zones (FEMA, 2024)) |
 | Jewelry/valuables over sub-limits | Don't realize sub-limits exist | Scheduled personal property |
 | Inadequate liability limits | $100K seems like a lot until it's not | Umbrella policy |
 | No disability insurance | "It won't happen to me" | Individual DI policy |
@@ -143,7 +143,7 @@ At minimum, enough to cover the mortgage ($400K) plus several years of income re
 
 <details>
 <summary>Answer</summary>
-FEMA data shows that over 25% of NFIP flood claims come from outside high-risk zones (Zones A and V) — recent 10-year data puts it closer to one-third. Zone X means lower risk, not no risk. NFIP premiums in Zone X are also much lower, making it an affordable precaution. Also, it only takes 1 inch of water to cause $25,000+ in damage.
+FEMA data shows that over 25% of NFIP flood claims come from outside high-risk zones (FEMA, 2024) (Zones A and V) — recent 10-year data puts it closer to one-third (FEMA, 2024). Zone X means lower risk, not no risk. NFIP premiums in Zone X are also much lower, making it an affordable precaution. Also, it only takes 1 inch of water to cause $25,000+ in damage (FEMA, 2024).
 </details>
 
 **3.** Which risk management technique is insurance?

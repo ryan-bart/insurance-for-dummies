@@ -18,7 +18,7 @@ Pure death protection. No cash value. You pay premiums for a set period — if y
 
 | Feature | Details |
 |---------|---------|
-| **Duration** | 10, 15, 20, or 30 years (most common) |
+| **Duration** | 10, 15, 20, or 30 years (most common) (ACLI, 2024) |
 | **Premiums** | Level during the term, then spike at renewal |
 | **Cash value** | None |
 | **Best for** | Temporary needs: mortgage protection, income replacement while kids are young |
@@ -94,16 +94,16 @@ The savings component in permanent policies. Key features:
 | **Per stirpes** | If a beneficiary dies, their share goes to their children |
 | **Per capita** | If a beneficiary dies, their share is split among surviving beneficiaries |
 
-**Key exam point**: Life insurance proceeds generally bypass probate and go directly to named beneficiaries.
+**Key exam point**: Life insurance proceeds generally bypass probate and go directly to named beneficiaries (ACLI, 2024).
 
 ---
 
 ## Important Policy Provisions and Riders
 
 ### Standard Provisions
-- **Grace period**: Usually 31 days to pay a late premium before the policy lapses
-- **Incontestability clause**: After 2 years, the insurer can't void the policy for misstatements on the application (except fraud in some states)
-- **Suicide clause**: No death benefit for suicide within first 2 years; premiums are returned instead
+- **Grace period**: Usually 31 days to pay a late premium before the policy lapses (NAIC Model Policy Provisions)
+- **Incontestability clause**: After 2 years, the insurer can't void the policy for misstatements on the application (except fraud in some states) (Debofsky Law, 2022)
+- **Suicide clause**: No death benefit for suicide within first 2 years; premiums are returned instead (Western & Southern Financial Group)
 - **Misstatement of age/sex**: Benefit adjusted to what the premium would have purchased at the correct age/sex
 
 ### Common Riders
@@ -146,12 +146,12 @@ How the death benefit is paid out:
 
 ## Tax Treatment Basics
 
-- **Death benefits**: Generally **income-tax-free** to beneficiaries (IRC Section 101)
-- **Cash value growth**: **Tax-deferred** (no tax until you withdraw)
-- **Policy loans**: Generally **not taxable** (as long as the policy stays in force)
-- **Surrenders**: Taxed on the gain (cash value minus total premiums paid)
-- **Premiums**: **Not tax-deductible** for personal life insurance
-- **Modified Endowment Contract (MEC)**: If you overfund a policy, it loses favorable tax treatment on withdrawals
+- **Death benefits**: Generally **income-tax-free** to beneficiaries (26 U.S.C. §101)
+- **Cash value growth**: **Tax-deferred** (no tax until you withdraw) (IRS, 2025)
+- **Policy loans**: Generally **not taxable** (as long as the policy stays in force) (IRS, 2025)
+- **Surrenders**: Taxed on the gain (cash value minus total premiums paid) (IRS, 2025)
+- **Premiums**: **Not tax-deductible** for personal life insurance (IRS, 2025)
+- **Modified Endowment Contract (MEC)**: If you overfund a policy, it loses favorable tax treatment on withdrawals (26 U.S.C. §7702A)
 
 ---
 
@@ -175,14 +175,14 @@ The insured can choose a non-forfeiture option: cash surrender (take the cash va
 
 <details>
 <summary>Answer</summary>
-No. The suicide clause excludes coverage for suicide within the first 2 years. The insurer returns the premiums paid, but does not pay the death benefit.
+No. The suicide clause excludes coverage for suicide within the first 2 years (Western & Southern Financial Group). The insurer returns the premiums paid, but does not pay the death benefit.
 </details>
 
 **4.** Are life insurance death benefits taxable income to the beneficiary?
 
 <details>
 <summary>Answer</summary>
-Generally no. Life insurance death benefits are received income-tax-free under IRC Section 101. However, if the policy was transferred for value (sold to someone), the exclusion may be lost.
+Generally no. Life insurance death benefits are received income-tax-free (26 U.S.C. §101). However, if the policy was transferred for value (sold to someone), the exclusion may be lost.
 </details>
 
 **5.** What's the difference between a variable life policy and a universal life policy?

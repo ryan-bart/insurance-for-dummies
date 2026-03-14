@@ -39,7 +39,7 @@ The adjuster answers three questions:
 Determine how much the loss is worth:
 - **Property claims**: Repair estimates, contractor bids, replacement cost vs ACV
 - **Liability/BI claims**: Medical bills, lost wages, pain and suffering, future care
-- **Total loss**: If repair exceeds a threshold (typically 70–75% of actual cash value, though this varies by state — some states set it as high as 100%), the vehicle is "totaled"
+- **Total loss**: If repair exceeds a threshold (typically 70–75% of actual cash value (WalletHub, 2026), though this varies by state — some states set it as high as 100% (WalletHub, 2026)), the vehicle is "totaled"
 
 ### Step 5: Negotiation and Settlement
 - **First-party claims** (your own policy): Adjuster and insured agree on the amount

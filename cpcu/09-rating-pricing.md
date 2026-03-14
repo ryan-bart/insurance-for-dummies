@@ -34,7 +34,7 @@ An exposure unit varies by line:
 - **Auto physical damage**: Per car-year
 
 ### Expense Loading
-Everything besides claims: commissions (typically 10–15% for independent agents on personal lines), operating costs, taxes, and profit margin. Typically adds 30-40% on top of loss costs.
+Everything besides claims: commissions (typically 10–15% for independent agents on personal lines) (Brightway Insurance, 2024), operating costs, taxes, and profit margin. Typically adds 30-40% on top of loss costs (CPCU 556 Course Materials).
 
 ---
 
@@ -47,7 +47,7 @@ Rating factors adjust the base rate for individual risk characteristics:
 | Factor | Impact |
 |--------|--------|
 | **Territory** | Geographic area — coastal, urban, wildfire zone, etc. |
-| **Protection class** | ISO 1-10 fire protection rating |
+| **Protection class** | ISO 1-10 fire protection rating (Verisk / ISO) |
 | **Construction type** | Frame, masonry, fire-resistive |
 | **Coverage amount** | Higher replacement cost = higher premium |
 | **Deductible** | Higher deductible = lower premium |
@@ -59,7 +59,7 @@ Rating factors adjust the base rate for individual risk characteristics:
 
 #### ITV Rating Characteristics & Replacement Cost
 
-The coverage amount factor above depends on an accurate **Insurance to Value (ITV)** calculation. Verisk's research identified **25 property characteristics** that drive replacement cost estimation — 9 primary (year built, square footage, quality grade, number of stories, foundation type, finished % of lowest level, exterior wall finish, garage/carport, fireplaces) and 16 secondary (bathroom count, floor covering, cooling system, roof cover, kitchen count, kitchen counters, heating, property slope, site access, interior wall finish, foundation shape, roof shape, wall height, exterior wall construction, foundation material, interior wall material).
+The coverage amount factor above depends on an accurate **Insurance to Value (ITV)** calculation. Verisk's research identified **25 property characteristics** (Verisk / ISO) that drive replacement cost estimation — 9 primary (year built, square footage, quality grade, number of stories, foundation type, finished % of lowest level, exterior wall finish, garage/carport, fireplaces) and 16 secondary (bathroom count, floor covering, cooling system, roof cover, kitchen count, kitchen counters, heating, property slope, site access, interior wall finish, foundation shape, roof shape, wall height, exterior wall construction, foundation material, interior wall material).
 
 The more of these characteristics captured during quoting and underwriting, the more accurate the ITV — which directly affects both premium adequacy and whether the insured triggers a coinsurance penalty after a loss. See [Homeowners: ITV Rating Characteristics](01-homeowners.md#the-25-itv-rating-characteristics) for the full breakdown.
 
@@ -109,17 +109,17 @@ The most important profitability metric in insurance:
 | **Expense Ratio** | Underwriting Expenses / Written Premium | % of premium going to expenses |
 | **Combined Ratio** | Loss Ratio + Expense Ratio | Overall underwriting profitability |
 
-- **Combined ratio < 100%** = underwriting profit
-- **Combined ratio > 100%** = underwriting loss
-- **Combined ratio = 105%** means the insurer is losing 5 cents on every premium dollar from underwriting (investment income may still make overall profit)
+- **Combined ratio < 100%** = underwriting profit (CPCU 556 Course Materials)
+- **Combined ratio > 100%** = underwriting loss (CPCU 556 Course Materials)
+- **Combined ratio = 105%** means the insurer is losing 5 cents on every premium dollar from underwriting (investment income may still make overall profit) (CPCU 556 Course Materials)
 
-**Industry context**: Personal auto combined ratios ran 100–112% from 2020–2023 due to post-pandemic inflation, but improved sharply to ~95% in 2024 after successive rate increases. Homeowners is more volatile due to catastrophe exposure.
+**Industry context**: Personal auto combined ratios ran 100–112% from 2020–2023 (III, 2025) due to post-pandemic inflation, but improved sharply to ~95% in 2024 (A.M. Best, 2025) after successive rate increases. Homeowners is more volatile due to catastrophe exposure.
 
 ---
 
 ## Rate Regulation
 
-Insurance rates are regulated at the state level. The three main approaches:
+Insurance rates are regulated at the state level. The three main approaches (NAIC, "State Insurance Regulation"):
 
 ### Prior Approval
 - Insurer must file rates and get state approval **before** using them
@@ -134,13 +134,13 @@ Insurance rates are regulated at the state level. The three main approaches:
 
 ### Use-and-File
 - Insurer can use new rates immediately
-- Must file with the regulator within a set period (e.g., 30 days)
+- Must file with the regulator within a set period (e.g., 30 days) (NAIC, "State Insurance Regulation")
 - Even less regulatory friction
 
 ### Open Competition (No File)
 - No filing requirement — or informational filings only
 - Market forces determine rates
-- Illinois uses this approach for property/casualty lines (the only state with no P/C rating law)
+- Illinois uses this approach for property/casualty lines (the only state with no P/C rating law) (Insurance Business America, 2025)
 - Least common approach
 
 ### Rate Standards
@@ -157,10 +157,10 @@ Regardless of the approach, rates must be:
 The more policies you write, the more predictable your losses become. A single homeowner is unpredictable. A million homeowners is very predictable in aggregate.
 
 ### Credibility
-How much weight to give your own data vs industry data. A small insurer with 500 auto policies can't rely solely on their own loss experience — not enough data. They blend with industry data.
+How much weight to give your own data vs industry data. A small insurer with 500 auto policies can't rely solely on their own loss experience — not enough data (CPCU 556 Course Materials). They blend with industry data.
 
 ### Loss Development
-Claims take time to fully settle. A $50,000 reserve today might become a $75,000 payment next year. Actuaries estimate the "ultimate" cost of claims using development factors.
+Claims take time to fully settle. A $50,000 reserve today might become a $75,000 payment next year (CPCU 556 Course Materials). Actuaries estimate the "ultimate" cost of claims using development factors.
 
 ### Trending
 Losses trend upward over time (inflation, social inflation, medical costs). Actuaries project current cost levels into the future policy period.
@@ -172,11 +172,11 @@ Models estimate expected catastrophe losses (hurricanes, earthquakes) and add a 
 
 ## Practice Questions
 
-**1.** An insurer's loss ratio is 65% and expense ratio is 32%. What's the combined ratio, and is the insurer profitable from underwriting?
+**1.** An insurer's loss ratio is 65% and expense ratio is 32% (CPCU 556 Course Materials). What's the combined ratio, and is the insurer profitable from underwriting?
 
 <details>
 <summary>Answer</summary>
-Combined ratio = 65% + 32% = 97%. Yes, the insurer is making an underwriting profit — they're keeping 3 cents on every premium dollar after claims and expenses. Plus they earn investment income on top of this.
+Combined ratio = 65% + 32% = 97% (CPCU 556 Course Materials). Yes, the insurer is making an underwriting profit — they're keeping 3 cents on every premium dollar after claims and expenses. Plus they earn investment income on top of this.
 </details>
 
 **2.** Why does a higher deductible lower your premium?
@@ -200,11 +200,11 @@ Prior approval: the insurer must get regulator approval BEFORE using new rates. 
 Catastrophe loading. Even in a year with no hurricanes, the premium includes the expected cost of future hurricanes based on catastrophe models. Florida's coastal exposure to hurricanes drives massive cat loading. Also: higher litigation costs, assignment of benefits issues, and roof damage frequency from storms.
 </details>
 
-**5.** An insurer has 200 auto policies and wants to set rates. Can they rely entirely on their own loss data?
+**5.** An insurer has 200 auto policies (CPCU 556 Course Materials) and wants to set rates. Can they rely entirely on their own loss data?
 
 <details>
 <summary>Answer</summary>
-No. With only 200 policies, their own experience isn't statistically credible — a couple of large claims could wildly skew the data. They'd need to blend their experience with industry data, giving more weight to industry data (low credibility for their own). This is the concept of actuarial credibility.
+No. With only 200 policies (CPCU 556 Course Materials), their own experience isn't statistically credible — a couple of large claims could wildly skew the data. They'd need to blend their experience with industry data, giving more weight to industry data (low credibility for their own). This is the concept of actuarial credibility.
 </details>
 
 ---

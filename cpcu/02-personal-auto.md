@@ -33,7 +33,7 @@ This is the core of the PAP. It pays for bodily injury (BI) and property damage 
 
 Liability is typically expressed as **split limits**:
 
-> **100/300/50** means:
+> **100/300/50** means (ISO, PP 00 01, 2018):
 > - $100,000 per person for bodily injury
 > - $300,000 per accident for bodily injury
 > - $50,000 per accident for property damage
@@ -52,7 +52,7 @@ This is a critical exam topic:
 ### What's a "Covered Auto"?
 
 - Vehicles listed on the declarations page
-- Newly acquired vehicles (must notify insurer within 14 days; if the policy has no existing physical damage coverage, the window is only 4 days to request it)
+- Newly acquired vehicles (must notify insurer within 14 days (ISO, PP 00 01, 2018); if the policy has no existing physical damage coverage, the window is only 4 days (ISO, PP 00 01, 2018) to request it)
 - Trailers
 - Temporary substitute vehicles (when your car is broken down)
 
@@ -63,10 +63,10 @@ This is a critical exam topic:
 Pays reasonable medical expenses for the named insured and passengers, regardless of fault.
 
 **Key points:**
-- Typical limit: $1,000–$10,000 per person
-- Covers treatment within **3 years** of the accident
+- Typical limit: $1,000–$10,000 per person (ISO, PP 00 01, 2018)
+- Covers treatment within **3 years** of the accident (ISO, PP 00 01, 2018)
 - Covers the named insured as a pedestrian hit by a vehicle too
-- Does NOT cover injuries sustained in a vehicle with fewer than 4 wheels (motorcycles) unless it's a regular coverage vehicle
+- Does NOT cover injuries sustained in a vehicle with fewer than 4 wheels (ISO, PP 00 01, 2018) (motorcycles) unless it's a regular coverage vehicle
 
 ---
 
@@ -85,7 +85,7 @@ Covers the gap when the at-fault driver has insurance, but not enough.
 - Hit-and-run qualifies as "uninsured" — but you must report it promptly
 
 ### Stacking vs Non-Stacking
-- **Stacking**: If you have multiple vehicles on your policy, you can "stack" (add together) the UM/UIM limits. Two cars with $100K UM = $200K available.
+- **Stacking**: If you have multiple vehicles on your policy, you can "stack" (add together) the UM/UIM limits. Two cars with $100K UM = $200K available (NAIC, 2024).
 - **Non-stacking**: You get the limit on one vehicle only, regardless of how many you insure.
 - This varies by state — it's a common exam question.
 
@@ -102,13 +102,13 @@ Damage from impact with another object or vehicle, or overturning.
 Everything else: theft, fire, hail, flood, vandalism, hitting an animal, glass breakage, falling objects.
 
 **Key points:**
-- Each has its own deductible (commonly $250–$1,000)
+- Each has its own deductible (commonly $250–$1,000) (ISO, PP 00 01, 2018)
 - Pays the **lesser of**: actual cash value (ACV) or cost to repair/replace
 - **ACV = Replacement cost minus depreciation**
 - Collision with an animal = OTC (not collision) — this matters because OTC claims often don't raise your rates
 
 ### Transportation Expenses
-If your covered auto is stolen, the policy pays up to **$30/day, $900 max** for rental or transportation while it's missing (ISO increased these limits from $20/$600 effective 2018). Coverage begins 48 hours after the theft. (For collision losses, this isn't automatically included — need a rental reimbursement endorsement.)
+If your covered auto is stolen, the policy pays up to **$30/day, $900 max** (ISO, PP 00 01, 2018) for rental or transportation while it's missing (ISO increased these limits from $20/$600 effective 2018). Coverage begins 48 hours (ISO, PP 00 01, 2018) after the theft. (For collision losses, this isn't automatically included — need a rental reimbursement endorsement.)
 
 ---
 
@@ -140,7 +140,7 @@ Important ones:
 | Exclusion | Rationale |
 |-----------|-----------|
 | **Intentional damage** | Moral hazard |
-| **Vehicles with fewer than 4 wheels** | Motorcycles need separate policy |
+| **Vehicles with fewer than 4 wheels** (ISO, PP 00 01, 2018) | Motorcycles need separate policy |
 | **Vehicles used as public conveyance** | Rideshare/taxi = commercial risk |
 | **Business-owned vehicles** | Commercial auto policy needed |
 | **Racing** | Extreme risk |
@@ -162,7 +162,7 @@ Some states are "no-fault" — your own insurer pays your injuries regardless of
 - PIP is broader than Med Pay: covers lost wages, essential services, funeral expenses
 - You can only sue the at-fault driver if injuries exceed a threshold (dollar amount or verbal — like "serious injury")
 
-**No-fault states include**: Florida (transitioning to tort system July 1, 2026), Michigan, New York, New Jersey, Pennsylvania, Hawaii, Kansas, Kentucky, Massachusetts, Minnesota, North Dakota, Utah
+**No-fault states include**: Florida (transitioning to tort system July 1, 2026), Michigan, New York, New Jersey, Pennsylvania, Hawaii, Kansas, Kentucky, Massachusetts, Minnesota, North Dakota, Utah (III, 2025)
 
 ---
 
@@ -188,11 +188,11 @@ Some states are "no-fault" — your own insurer pays your injuries regardless of
 Yours. Insurance follows the car first, then the driver. Your PAP provides primary coverage for anyone using your covered auto with permission. Your friend's policy would be excess.
 </details>
 
-**2.** You have 100/300/50 limits. You cause an accident injuring three people. The court awards $120K, $90K, and $80K respectively. How much does your insurer pay for BI?
+**2.** You have 100/300/50 limits (ISO, PP 00 01, 2018). You cause an accident injuring three people. The court awards $120K, $90K, and $80K respectively. How much does your insurer pay for BI?
 
 <details>
 <summary>Answer</summary>
-Person 1: $100,000 (capped at per-person limit), Person 2: $90,000, Person 3: $80,000. Total BI = $270,000 — under the $300K per-accident limit, so the insurer pays $270,000. You owe Person 1 the remaining $20,000 out of pocket.
+Person 1: $100,000 (capped at per-person limit) (ISO, PP 00 01, 2018), Person 2: $90,000, Person 3: $80,000. Total BI = $270,000 — under the $300K per-accident limit (ISO, PP 00 01, 2018), so the insurer pays $270,000. You owe Person 1 the remaining $20,000 out of pocket.
 </details>
 
 **3.** You hit a deer on the highway. Is this collision or OTC?
@@ -227,6 +227,7 @@ Yes. Family members (residents of your household related by blood, marriage, or 
 5. Ohio Insurance Agents, "New Tune: Understanding ISO's Recent Changes to the PAP," 2019. [ohioinsuranceagents.com](https://ohioinsuranceagents.com/blog/2019/new-tune-understanding-isos-recent-changes-to-the-pap/)
 6. IRMI (International Risk Management Institute), "Transportation Expenses Definition," 2025. [irmi.com](https://www.irmi.com/term/insurance-definitions/transportation-expenses)
 7. MoneyGeek, "State Minimum Car Insurance Requirements," 2026. [moneygeek.com](https://www.moneygeek.com/insurance/auto/state-minimum-car-insurance-requirements/)
+8. National Association of Insurance Commissioners (NAIC), "Compendium of State Laws on Insurance Topics," 2024. [naic.org](https://content.naic.org/)
 
 ---
 

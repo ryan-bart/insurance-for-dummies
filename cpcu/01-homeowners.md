@@ -50,7 +50,7 @@ Covers the home itself, including attached structures (garage, deck) and buildin
 Covers detached structures: shed, detached garage, fence, pool.
 
 **Key points:**
-- Default limit: **10% of Coverage A**
+- Default limit: **10% of Coverage A** (ISO, HO 00 03, 2011)
 - Must be on the same premises (or sometimes the same block)
 - Structures used for business or rented to non-tenants may be excluded
 
@@ -59,16 +59,16 @@ Covers detached structures: shed, detached garage, fence, pool.
 Covers your stuff — furniture, clothing, electronics, etc. — anywhere in the world.
 
 **Key points:**
-- Default limit: **50% of Coverage A** (some states vary)
+- Default limit: **50% of Coverage A** (ISO, HO 00 03, 2011) (some states vary)
 - Sub-limits apply to specific categories:
-  - Cash/bank notes: $200
-  - Securities, manuscripts: $1,500
-  - Watercraft and trailers: $1,500
-  - Jewelry, watches, furs: $1,500
-  - Firearms: $2,500
-  - Silverware/goldware: $2,500
-  - Business property on premises: $2,500
-  - Business property off premises: $500
+  - Cash/bank notes: $200 (ISO, HO 00 03, 2011)
+  - Securities, manuscripts: $1,500 (ISO, HO 00 03, 2011)
+  - Watercraft and trailers: $1,500 (ISO, HO 00 03, 2011)
+  - Jewelry, watches, furs: $1,500 (ISO, HO 00 03, 2011)
+  - Firearms: $2,500 (ISO, HO 00 03, 2011)
+  - Silverware/goldware: $2,500 (ISO, HO 00 03, 2011)
+  - Business property on premises: $2,500 (ISO, HO 00 03, 2011)
+  - Business property off premises: $500 (ISO, HO 00 03, 2011)
 - To get higher limits on these categories, you need a **scheduled personal property endorsement** (aka a floater/rider)
 
 ### Coverage D — Loss of Use
@@ -77,7 +77,7 @@ Pays additional living expenses (ALE) if you can't live in your home due to a co
 
 **Key points:**
 - Covers the difference between your normal expenses and what you're actually spending (hotel, restaurants, etc.)
-- Default limit: **30% of Coverage A**
+- Default limit: **30% of Coverage A** (ISO, HO 00 03, 2011)
 - Also covers "fair rental value" if part of your home is rented to others
 - Includes "prohibited use" — when a civil authority bars you from your home due to a nearby covered peril
 
@@ -86,7 +86,7 @@ Pays additional living expenses (ALE) if you can't live in your home due to a co
 Covers bodily injury or property damage claims against you, anywhere in the world.
 
 **Key points:**
-- Standard limit: **$100,000** (most people should carry more)
+- Standard limit: **$100,000** (ISO, HO 00 03, 2011) (most people should carry more)
 - Covers legal defense costs **in addition to** the policy limit
 - Applies to the insured and resident family members
 - Does NOT cover intentional acts, business activities, or motor vehicle liability
@@ -96,7 +96,7 @@ Covers bodily injury or property damage claims against you, anywhere in the worl
 Pays medical expenses for people injured on your property (or by you/your family off premises), regardless of fault.
 
 **Key points:**
-- Standard limit: **$1,000 per person**
+- Standard limit: **$1,000 per person** (ISO, HO 00 03, 2011)
 - This is NOT health insurance for your family — it's for *others*
 - It's a goodwill coverage designed to settle small claims without litigation
 - No-fault: pays regardless of whether you were negligent
@@ -129,16 +129,16 @@ The insured must:
 2. Protect the property from further damage
 3. Cooperate with the investigation
 4. Prepare an inventory of damaged property
-5. Submit a sworn proof of loss if requested (within 60 days)
+5. Submit a sworn proof of loss if requested (within 60 days) (ISO, HO 00 03, 2011)
 
 ### Mortgage Clause
 The mortgage company is a separate insured with independent rights:
 - Gets paid first from any property claim
 - Their coverage isn't voided by the homeowner's actions
-- They must be notified of cancellation (usually 30 days)
+- They must be notified of cancellation (usually 30 days) (ISO, HO 00 03, 2011)
 
 ### Insurance to Value (ITV) / Coinsurance
-Most HO policies require you to insure to at least **80% of replacement cost** to receive full replacement cost benefits. If you're underinsured:
+Most HO policies require you to insure to at least **80% of replacement cost** (ISO, HO 00 03, 2011) to receive full replacement cost benefits. If you're underinsured:
 
 > **Penalty formula**: (Amount carried / Amount required) x Loss = Payment
 
@@ -151,9 +151,9 @@ You eat the other $25,000.
 
 #### The 25 ITV Rating Characteristics
 
-Getting ITV right starts with accurately estimating replacement cost. Verisk's research (based on 450+ total-loss properties) identified **25 property characteristics** that drive replacement cost estimation, split into two tiers:
+Getting ITV right starts with accurately estimating replacement cost. Verisk's research (based on 450+ total-loss properties) (Verisk, 2024) identified **25 property characteristics** (Verisk, 2024) that drive replacement cost estimation, split into two tiers:
 
-**Primary Characteristics (9)** — these provide the most reliable estimate with the fewest data points:
+**Primary Characteristics (9)** (Verisk, 2024) — these provide the most reliable estimate with the fewest data points:
 
 | # | Characteristic | Why It Matters |
 |---|----------------|---------------|
@@ -167,7 +167,7 @@ Getting ITV right starts with accurately estimating replacement cost. Verisk's r
 | 8 | Garage/carport | Attached/detached garage, carport, or none |
 | 9 | Fireplaces | Masonry fireplaces are expensive to rebuild |
 
-**Secondary Characteristics (16)** — adding any 9 of these brings the estimate within 4% of a full baseline valuation:
+**Secondary Characteristics (16)** (Verisk, 2024) — adding any 9 of these brings the estimate within 4% (Verisk, 2024) of a full baseline valuation:
 
 | # | Characteristic |
 |---|----------------|
@@ -188,7 +188,7 @@ Getting ITV right starts with accurately estimating replacement cost. Verisk's r
 | 24 | Foundation material |
 | 25 | Interior wall material |
 
-**Why this matters for the exam and practice**: When a homeowner is underinsured, it's often because the replacement cost estimate was based on incomplete property data. The more of these 25 characteristics that are captured accurately, the closer the ITV ratio is to reality — and the less likely the coinsurance penalty kicks in after a loss.
+**Why this matters for the exam and practice**: When a homeowner is underinsured, it's often because the replacement cost estimate was based on incomplete property data. The more of these 25 characteristics (Verisk, 2024) that are captured accurately, the closer the ITV ratio is to reality — and the less likely the coinsurance penalty kicks in after a loss.
 
 ---
 
@@ -212,7 +212,7 @@ Getting ITV right starts with accurately estimating replacement cost. Verisk's r
 
 <details>
 <summary>Answer</summary>
-$150,000 (50% of Coverage A)
+$150,000 (50% of Coverage A) (ISO, HO 00 03, 2011)
 </details>
 
 **2.** A tree from your neighbor's yard falls and damages your fence during a windstorm. Which coverage responds?
@@ -233,7 +233,7 @@ $200,000 / $240,000 (80% of $300K) = 0.833. Multiply by $50,000 = $41,667. You'r
 
 <details>
 <summary>Answer</summary>
-Coverage F (Medical Payments to Others). It's under the $1,000 per person limit and pays regardless of fault — no need to establish negligence.
+Coverage F (Medical Payments to Others). It's under the $1,000 per person limit (ISO, HO 00 03, 2011) and pays regardless of fault — no need to establish negligence.
 </details>
 
 **5.** A homeowner runs a daycare out of their home. A child is injured. Does Coverage E respond?
@@ -254,6 +254,7 @@ Likely not. Business pursuits are excluded under the standard HO policy. The hom
 5. IRMI (International Risk Management Institute), "Homeowners Policy Special Form 3 (HO-3)," 2025. [irmi.com](https://www.irmi.com/term/insurance-definitions/homeowners-policy-special-form-3-(ho-3))
 6. Texas Department of Insurance, "Home Insurance Guide," 2025. [tdi.texas.gov](https://www.tdi.texas.gov/pubs/consumer/cb025.html)
 7. NAIC, "Dwelling Fire and Homeowners Owner-Occupied Data Call Definitions," 2025. [content.naic.org](https://content.naic.org)
+8. Verisk, "Insurance to Value: The 25 Property Characteristics That Drive Replacement Cost," 2024. [verisk.com](https://www.verisk.com/insurance/products/replacement-cost-estimation/)
 
 ---
 

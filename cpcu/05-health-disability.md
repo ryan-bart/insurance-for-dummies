@@ -42,10 +42,10 @@ The Affordable Care Act (2010) reshaped individual health insurance:
 ### Key Rules
 - **Guaranteed issue**: Insurers must accept all applicants regardless of health
 - **No pre-existing condition exclusions**
-- **Essential health benefits**: 10 categories that all plans must cover (hospitalization, prescription drugs, maternity, mental health, etc.)
-- **Metal tiers**: Bronze (60/40), Silver (70/30), Gold (80/20), Platinum (90/10) — the percentages indicate the plan's share of costs on average
+- **Essential health benefits**: 10 categories that all plans must cover (ACA/42 U.S.C. § 18022, 2010) (hospitalization, prescription drugs, maternity, mental health, etc.)
+- **Metal tiers**: Bronze (60/40), Silver (70/30), Gold (80/20), Platinum (90/10) (ACA/42 U.S.C. § 18022, 2010) — the percentages indicate the plan's share of costs on average
 - **Premium subsidies**: Available based on income (tax credits)
-- **Individual mandate**: Originally required coverage or a penalty; penalty reduced to $0 federally in 2019 (some states still have their own)
+- **Individual mandate**: Originally required coverage or a penalty; penalty reduced to $0 federally in 2019 (Tax Cuts and Jobs Act, 2017) (some states still have their own)
 
 ### Plan Types
 
@@ -74,9 +74,9 @@ This is the "paycheck insurance" — it replaces income when you can't work due 
 
 | Feature | What It Is | Typical Range |
 |---------|-----------|---------------|
-| **Elimination period** | Waiting period before benefits start (like a time deductible) | 30, 60, 90, 180, or 365 days |
-| **Benefit period** | How long benefits are paid | 2 years, 5 years, to age 65, or lifetime |
-| **Benefit amount** | Monthly income replacement | Usually 60–70% of pre-disability income |
+| **Elimination period** | Waiting period before benefits start (like a time deductible) | 30, 60, 90, 180, or 365 days (III, 2024) |
+| **Benefit period** | How long benefits are paid | 2 years, 5 years, to age 65, or lifetime (III, 2024) |
+| **Benefit amount** | Monthly income replacement | Usually 60–70% of pre-disability income (III, 2024) |
 | **Residual/partial disability** | Pays proportional benefit if you can work part-time | Varies |
 
 **Key concept**: Longer elimination period = lower premium. It's like choosing a higher deductible.
@@ -84,7 +84,7 @@ This is the "paycheck insurance" — it replaces income when you can't work due 
 ### Tax Treatment
 - **If you pay the premiums**: Benefits are **tax-free**
 - **If your employer pays the premiums**: Benefits are **taxable income**
-- This is critical for planning — a 60% benefit that's tax-free may replace the same take-home pay as 100% of salary
+- This is critical for planning — a 60% benefit that's tax-free may replace the same take-home pay as 100% of salary (IRS, 2025)
 
 ---
 
@@ -99,7 +99,7 @@ Covers the cost of care when you can't perform daily activities independently. T
 - Adult day care
 
 ### Benefit Triggers
-Most policies require inability to perform **2 of 6 Activities of Daily Living (ADLs)**:
+Most policies require inability to perform **2 of 6 Activities of Daily Living (ADLs)** (NAIC, 2024):
 1. Bathing
 2. Dressing
 3. Eating
@@ -110,29 +110,29 @@ Most policies require inability to perform **2 of 6 Activities of Daily Living (
 Or a **cognitive impairment** (Alzheimer's, dementia)
 
 ### Key Features
-- **Daily/monthly benefit**: e.g., $200/day or $6,000/month
-- **Benefit period**: 2, 3, 5 years, or lifetime
-- **Elimination period**: Usually 30–90 days
+- **Daily/monthly benefit**: e.g., $200/day or $6,000/month (NAIC, 2024)
+- **Benefit period**: 2, 3, 5 years, or lifetime (NAIC, 2024)
+- **Elimination period**: Usually 30–90 days (NAIC, 2024)
 - **Inflation protection**: Critical — care costs rise faster than general inflation
 
 ### Why It Matters
 - Medicare does NOT cover long-term custodial care
 - Medicaid does, but only after you've spent down nearly all your assets
-- Average nursing home cost: $110,000–$130,000+ per year (semi-private room median was $111,325 in 2024; private room $127,750)
+- Average nursing home cost: $110,000–$130,000+ per year — semi-private room median was $111,325; private room $127,750 (Genworth/CareScout, 2024)
 - LTC insurance protects your assets and gives you choices about your care
 
 ---
 
 ## Medicare Basics
 
-Medicare is federal health insurance for people 65+ (and some younger disabled individuals).
+Medicare is federal health insurance for people 65+ (CMS, 2025) (and some younger disabled individuals).
 
 ### The Four Parts
 
 | Part | What It Covers | Funding | Cost to Beneficiary |
 |------|---------------|---------|-------------------|
-| **Part A** | Hospital/inpatient, skilled nursing (limited), hospice, some home health | Payroll taxes | Usually premium-free if you paid Medicare taxes 10+ years |
-| **Part B** | Doctor visits, outpatient, preventive, durable medical equipment | General revenue + premiums | Standard monthly premium ($202.90/month in 2026, income-adjusted) |
+| **Part A** | Hospital/inpatient, skilled nursing (limited), hospice, some home health | Payroll taxes | Usually premium-free if you paid Medicare taxes 10+ years (CMS, 2025) |
+| **Part B** | Doctor visits, outpatient, preventive, durable medical equipment | General revenue + premiums | Standard monthly premium ($202.90/month in 2026 (CMS, 2025), income-adjusted) |
 | **Part C** (Medicare Advantage) | Combines A + B through private insurers, often includes drug coverage | Private plan premiums | Varies by plan |
 | **Part D** | Prescription drug coverage | Premiums + general revenue | Monthly premium varies by plan |
 
@@ -147,10 +147,10 @@ Medicare is federal health insurance for people 65+ (and some younger disabled i
 Medigap policies fill the "gaps" in original Medicare (Parts A & B):
 - Covers copays, coinsurance, and deductibles that Medicare doesn't pay
 - Standardized plans labeled **A through N** (not all available in every state)
-- **Plan F** was the most comprehensive (no longer available to new enrollees after 2020)
+- **Plan F** was the most comprehensive (no longer available to new enrollees after 2020) (MACRA, 2015)
 - **Plan G** is now the most popular comprehensive option
 - Cannot be combined with Medicare Advantage
-- **Guaranteed issue period**: 6 months after enrolling in Part B (age 65) — no health questions
+- **Guaranteed issue period**: 6 months after enrolling in Part B (age 65) (CMS, 2025) — no health questions
 
 ---
 
@@ -204,6 +204,9 @@ Part C (Medicare Advantage) replaces original Medicare — you get A and B benef
 7. IRS, "Publication 502: Medical and Dental Expenses," 2025. [irs.gov](https://www.irs.gov/publications/p502)
 8. Senior65, "2020 Medigap Changes: No New Plans C and F" (MACRA provisions). [senior65.com](https://www.senior65.com/medicare/article/medigap-changes-for-2020-no-new-plans-c-and-f)
 9. III (Insurance Information Institute), "Facts + Statistics: Disability Insurance," 2024. [iii.org](https://www.iii.org/fact-statistic/facts-statistics-disability-insurance)
+10. ACA/42 U.S.C. § 18022, "Essential Health Benefits Requirements" and "Levels of Coverage" (metal tiers), 2010. [law.cornell.edu](https://www.law.cornell.edu/uscode/text/42/18022)
+11. Tax Cuts and Jobs Act of 2017, Pub. L. 115–97, § 11081 (reducing individual mandate penalty to $0 effective 2019). [congress.gov](https://www.congress.gov/bill/115th-congress/house-bill/1/text)
+12. MACRA (Medicare Access and CHIP Reauthorization Act of 2015), § 401 (prohibiting Medigap first-dollar coverage for new enrollees after 2020). [congress.gov](https://www.congress.gov/bill/114th-congress/house-bill/2/text)
 
 ---
 

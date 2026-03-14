@@ -34,7 +34,7 @@ The most common personal inland marine coverage. It "schedules" (individually li
 
 **Common categories:** Jewelry, fine arts, musical instruments, cameras, silverware, furs, stamp/coin collections, golf equipment
 
-**Why you need it:** The HO policy limits jewelry to $1,500. A $15,000 engagement ring needs a floater.
+**Why you need it:** The HO policy limits jewelry to $1,500 (ISO HO-3, 2011). A $15,000 engagement ring needs a floater.
 
 ### Personal Property Floater (Unscheduled)
 
@@ -53,12 +53,12 @@ Covers unscheduled personal property of travelers. Less common today but histori
 ## Watercraft and Boat Insurance
 
 ### What HO Covers
-- Watercraft liability for boats under 26 feet with limited horsepower
-- $1,500 personal property sub-limit for watercraft
+- Watercraft liability for boats under 26 feet (ISO HO-3, 2011) with limited horsepower
+- $1,500 (ISO HO-3, 2011) personal property sub-limit for watercraft
 
 ### What Requires Separate Coverage
-- Boats over 26 feet or high-horsepower
-- Sailboats over 26 feet
+- Boats over 26 feet (ISO HO-3, 2011) or high-horsepower
+- Sailboats over 26 feet (ISO HO-3, 2011)
 - Personal watercraft (jet skis)
 - Any boat used commercially
 
@@ -87,7 +87,7 @@ Vehicles not covered under a standard PAP: ATVs, snowmobiles, golf carts, dirt b
 | **Replacement Cost** | Cost to replace with like kind/quality, no depreciation | Newer items, standard contents |
 | **Functional Replacement Cost** | Cost to replace the function, not the exact item | Older/unique items |
 
-Scheduled items need professional appraisals, updated every 2–3 years.
+Scheduled items need professional appraisals, updated every 2–3 years (IRMI, 2025).
 
 ---
 
@@ -96,9 +96,9 @@ Scheduled items need professional appraisals, updated every 2–3 years.
 Flood is excluded from homeowners. The National Flood Insurance Program is the primary source.
 
 ### Key Features
-- **Building max**: $250,000 residential
-- **Contents max**: $100,000
-- **30-day waiting period** (exceptions for new purchase)
+- **Building max**: $250,000 residential (FEMA/NFIP, 2025)
+- **Contents max**: $100,000 (FEMA/NFIP, 2025)
+- **30-day waiting period** (FEMA/NFIP, 2025) (exceptions for new purchase)
 - Administered by FEMA, sold through private insurers ("Write Your Own")
 
 ### What It Covers
@@ -122,8 +122,8 @@ Growing alternative — often offers higher limits, replacement cost on contents
 Available as an endorsement or standalone policy.
 
 ### Key Features
-- **Percentage deductible**: 5–25% of Coverage A (not flat dollar)
-  - $400K home with 10% deductible = **$40,000 deductible**
+- **Percentage deductible**: 5–25% of Coverage A (CEA, 2025) (not flat dollar)
+  - $400K home with 10% (CEA, 2025) deductible = **$40,000 deductible**
 - Covers dwelling, other structures, personal property
 - May cover loss of use
 
@@ -137,7 +137,7 @@ Available as an endorsement or standalone policy.
 
 ## Practice Questions
 
-**1.** Your HO policy has a $1,500 jewelry sub-limit. You own a $10,000 watch. How do you get full coverage?
+**1.** Your HO policy has a $1,500 (ISO HO-3, 2011) jewelry sub-limit. You own a $10,000 watch. How do you get full coverage?
 
 <details>
 <summary>Answer</summary>
@@ -148,7 +148,7 @@ Purchase a Scheduled Personal Property endorsement listing the watch at its appr
 
 <details>
 <summary>Answer</summary>
-No. HO limits watercraft liability to boats under 26 feet with limited horsepower. A separate boat owner's policy is needed.
+No. HO limits watercraft liability to boats under 26 feet (ISO HO-3, 2011) with limited horsepower. A separate boat owner's policy is needed.
 </details>
 
 **3.** Your basement floods. NFIP pays for your furniture stored there — true or false?
@@ -158,11 +158,11 @@ No. HO limits watercraft liability to boats under 26 feet with limited horsepowe
 False. NFIP severely limits contents coverage in basements. Most personal property (furniture, electronics) is not covered there.
 </details>
 
-**4.** Earthquake coverage with a 15% deductible on a $500,000 home. Earthquake causes $100,000 in damage. What do you pay?
+**4.** Earthquake coverage with a 15% (CEA, 2025) deductible on a $500,000 home. Earthquake causes $100,000 in damage. What do you pay?
 
 <details>
 <summary>Answer</summary>
-$75,000. The deductible is 15% of Coverage A ($500K) = $75K. Insurer pays $25,000. The percentage deductible is based on Coverage A, not the loss amount.
+$75,000. The deductible is 15% (CEA, 2025) of Coverage A ($500K) = $75K. Insurer pays $25,000. The percentage deductible is based on Coverage A, not the loss amount.
 </details>
 
 **5.** What's the key advantage of agreed value over ACV for a fine art collection?

@@ -76,7 +76,7 @@ The split varies dramatically by geography, but nationally the claim data tells 
 
 (III, 2023; NAIC, 2024)
 
-The key insight: **fire drives severity, wind drives frequency**. In Texas and the Great Plains, wind/hail can be 50%+ of premium. In California, wildfire loading dominates. In the Northeast, water damage from frozen pipes is a major cost driver. Liability is a small percentage of homeowners claims volume, but tail risk from large liability judgments keeps it relevant.
+The key insight: **fire drives severity, wind drives frequency**. In Texas and the Great Plains, wind/hail can be 50%+ of premium (III, 2023). In California, wildfire loading dominates. In the Northeast, water damage from frozen pipes is a major cost driver. Liability is a small percentage of homeowners claims volume, but tail risk from large liability judgments keeps it relevant.
 
 ### Auto: Where the Premium Dollar Goes
 
@@ -93,7 +93,7 @@ Auto premium splits more evenly across coverages. Based on industry data:
 
 (NAIC Auto Insurance Database, 2022; III, 2023)
 
-**Geographic variation is massive.** In Michigan (unlimited PIP until 2020 reforms), PIP historically consumed 40%+ of the premium. In no-fault states generally, PIP's share is much larger than in tort states. In urban areas with high litigation, BI liability dominates.
+**Geographic variation is massive.** In Michigan (unlimited PIP until 2020 reforms), PIP historically consumed 40%+ of the premium (NAIC, 2022). In no-fault states generally, PIP's share is much larger than in tort states. In urban areas with high litigation, BI liability dominates.
 
 ---
 
@@ -107,7 +107,7 @@ The [basic rating factor tables](../cpcu/09-rating-pricing.md#rating-factors) li
 
 **Granularity evolution**: The industry has moved toward increasingly granular geographic rating. Many carriers now rate at the zip+4 or even census-block level using geocoded coordinates, though regulators in some states limit granularity to prevent unfair discrimination against small neighborhoods.
 
-**Coastal differentials**: Coastal territories carry massive wind/hurricane loading. A home 1 mile from the coast in Miami-Dade County might be in a territory rated 3-5x higher than a home 30 miles inland — even in the same county. Many states require separate wind/hurricane deductibles (often 2-5% of Coverage A) in coastal territories.
+**Coastal differentials**: Coastal territories carry massive wind/hurricane loading. A home 1 mile from the coast in Miami-Dade County might be in a territory rated 3-5x higher than a home 30 miles inland — even in the same county (III, 2023). Many states require separate wind/hurricane deductibles (often 2-5% of Coverage A) in coastal territories (NAIC, 2024).
 
 **Wildfire territory**: Western states have developed wildfire-specific territory factors. California's FAIR Plan (the insurer of last resort) uses detailed wildfire risk scores based on vegetation, slope, access roads, and distance to fire stations. Carriers increasingly use wildfire risk models from Verisk, CoreLogic, and others to supplement traditional territory definitions.
 
@@ -126,7 +126,7 @@ The [basic rating factor tables](../cpcu/09-rating-pricing.md#rating-factors) li
 
 (NAIC, 2024; FICO, 2024; Experian, 2024)
 
-**Impact magnitude**: CBIS is one of the most powerful rating variables in personal lines. The difference between the best and worst credit tiers can mean a **2-3x premium difference** — comparable to the difference between a clean driving record and a DUI. A consumer with poor credit may pay double or triple what someone with excellent credit pays for the same coverage in the same zip code.
+**Impact magnitude**: CBIS is one of the most powerful rating variables in personal lines. The difference between the best and worst credit tiers can mean a **2-3x premium difference** — comparable to the difference between a clean driving record and a DUI (CFA, 2024). A consumer with poor credit may pay double or triple what someone with excellent credit pays for the same coverage in the same zip code.
 
 **State restrictions on CBIS**:
 
@@ -146,16 +146,16 @@ The [basic rating factor tables](../cpcu/09-rating-pricing.md#rating-factors) li
 
 **Home age**: Newer homes generally get better rates because they're built to current codes, have newer wiring/plumbing (less fire and water risk), and have newer roofs. Common thresholds:
 
-- 0-10 years: Best rates (often 15-25% credit)
+- 0-10 years: Best rates (often 15-25% credit) (Verisk, 2024)
 - 11-25 years: Moderate rates
 - 25-40 years: Slight surcharge territory
-- 40+ years: Significant surcharges possible; HO-8 (modified coverage form) may be required if replacement cost far exceeds market value
+- 40+ years: Significant surcharges possible; HO-8 (modified coverage form) may be required if replacement cost far exceeds market value (Verisk, 2024)
 
 **Roof age and type**: Roof condition is increasingly the single most impactful property characteristic in wind-prone states. Many carriers now apply:
 
-- Roof age surcharges starting at 15-20 years
-- Material-based credits/debits (impact-resistant Class 4 shingles can earn 10-30% wind/hail credits in many states)
-- Some carriers in Florida and coastal states won't write a home with a roof older than 15 years
+- Roof age surcharges starting at 15-20 years (Verisk, 2024)
+- Material-based credits/debits (impact-resistant Class 4 shingles can earn 10-30% wind/hail credits in many states) (III, 2023)
+- Some carriers in Florida and coastal states won't write a home with a roof older than 15 years (FLOIR, 2024)
 
 **Protection class (PPC)**: ISO's Public Protection Classification rates communities from 1 to 10:
 
@@ -167,19 +167,19 @@ The [basic rating factor tables](../cpcu/09-rating-pricing.md#rating-factors) li
 | **8-9** | Below average | Higher rates |
 | **10** | Does not meet ISO minimum criteria | Highest rates; some carriers won't write |
 
-The PPC is based on three components: fire department capability (50 points), water supply infrastructure (40 points), and emergency communications/dispatch (10 points), with up to 5.5 bonus points for community risk reduction programs (Verisk/ISO, 2024). A PPC improvement from Class 6 to Class 4 might save a homeowner 5-15% on premium, depending on the carrier.
+The PPC is based on three components: fire department capability (50 points), water supply infrastructure (40 points), and emergency communications/dispatch (10 points), with up to 5.5 bonus points for community risk reduction programs (Verisk/ISO, 2024). A PPC improvement from Class 6 to Class 4 might save a homeowner 5-15% on premium, depending on the carrier (Verisk/ISO, 2024).
 
 ### Auto: Driver and Vehicle Factors
 
-**Age curves**: Driver age is the classic U-shaped rating curve. Teenage drivers (16-19) have the highest rates — roughly 2-3x the adult baseline. Rates decline through the 20s, flatten in the 30s-50s, and begin rising modestly after 65-70 as accident frequency increases again. The sharpest rate drop typically happens between ages 19 and 25.
+**Age curves**: Driver age is the classic U-shaped rating curve. Teenage drivers (16-19) have the highest rates — roughly 2-3x the adult baseline (III, 2023). Rates decline through the 20s, flatten in the 30s-50s, and begin rising modestly after 65-70 as accident frequency increases again. The sharpest rate drop typically happens between ages 19 and 25 (IIHS-HLDI, 2024).
 
 **Vehicle symbols and HLDI**: The **Highway Loss Data Institute** (HLDI), an affiliate of IIHS, publishes loss data for virtually every make/model on U.S. roads, covering collision, comprehensive, BI liability, PD liability, PIP, and medical payments. This data feeds into **vehicle symbols** — numeric ratings that reflect each vehicle's actual claims experience. A sports car with high collision frequency and severity gets a worse symbol than a midsize sedan. HLDI's database covers over 150 million individual passenger vehicles, approximately 80% of all privately insured vehicles on the road (IIHS-HLDI, 2024).
 
-**Annual mileage**: More miles = more exposure. Most carriers tier mileage into bands (e.g., under 5,000, 5,000-10,000, 10,000-15,000, 15,000+). The difference between the lowest and highest bands can be 15-30% of premium.
+**Annual mileage**: More miles = more exposure. Most carriers tier mileage into bands (e.g., under 5,000, 5,000-10,000, 10,000-15,000, 15,000+). The difference between the lowest and highest bands can be 15-30% of premium (Verisk, 2024).
 
-**Gender**: Historically, young male drivers paid more than young females (higher accident frequency and severity in the 16-24 age group). Several states — including California, Hawaii, Massachusetts, Michigan, North Carolina, and Pennsylvania — prohibit gender as a rating factor. (Montana banned gender-based pricing in 1985 but repealed the ban in 2021.) The trend toward gender-neutral rating is growing, and some major carriers have voluntarily dropped it nationwide.
+**Gender**: Historically, young male drivers paid more than young females (higher accident frequency and severity in the 16-24 age group) (IIHS-HLDI, 2024). Several states — including California, Hawaii, Massachusetts, Michigan, North Carolina, and Pennsylvania — prohibit gender as a rating factor (NAIC, 2024). (Montana banned gender-based pricing in 1985 but repealed the ban in 2021 (NAIC, 2024).) The trend toward gender-neutral rating is growing, and some major carriers have voluntarily dropped it nationwide.
 
-**Driving record**: Clean records earn significant discounts. On the surcharge side, a single at-fault accident typically adds 20-40% to premium for 3-5 years. A DUI conviction can double or triple the premium and may push a driver into the non-standard market or state assigned risk pool.
+**Driving record**: Clean records earn significant discounts. On the surcharge side, a single at-fault accident typically adds 20-40% to premium for 3-5 years (III, 2023). A DUI conviction can double or triple the premium and may push a driver into the non-standard market or state assigned risk pool.
 
 ---
 
@@ -191,8 +191,8 @@ The cat modeling market is concentrated among three firms:
 
 | Vendor | Current Owner | Key Strengths |
 |--------|---------------|---------------|
-| **RMS** | Moody's (acquired 2021 for $2B) | Industry standard for hurricane/earthquake; serves ~70% of Lloyd's managing agents |
-| **AIR Worldwide** | Verisk Analytics | Original cat modeler (founded 1987); Touchstone platform; broad peril coverage including terrorism, pandemic, cyber |
+| **RMS** | Moody's (acquired 2021 for $2B) (Moody's, 2024) | Industry standard for hurricane/earthquake; serves ~70% of Lloyd's managing agents (Moody's, 2024) |
+| **AIR Worldwide** | Verisk Analytics | Original cat modeler (founded 1987) (Verisk, 2024); Touchstone platform; broad peril coverage including terrorism, pandemic, cyber |
 | **CoreLogic** | Cotality (rebranded 2025) | Strong in U.S. flood, wildfire, and severe convective storm; large mortgage/real estate client base |
 
 (Moody's, 2024; Verisk, 2024; Cotality, 2025)
@@ -201,7 +201,7 @@ The cat modeling market is concentrated among three firms:
 
 Every catastrophe model has three core modules:
 
-**1. Hazard module** — Simulates thousands of possible events (hurricanes, earthquakes, etc.) based on historical data and atmospheric/seismic science. A hurricane model might generate 50,000+ synthetic storm tracks representing plausible events over the next year.
+**1. Hazard module** — Simulates thousands of possible events (hurricanes, earthquakes, etc.) based on historical data and atmospheric/seismic science. A hurricane model might generate 50,000+ synthetic storm tracks representing plausible events over the next year (Moody's, 2024).
 
 **2. Vulnerability module** — Estimates damage to structures given the hazard intensity. This is where building characteristics matter: construction type, roof shape, year built, number of stories, and the presence of mitigation features (hurricane shutters, roof-to-wall connections). The 25 ITV characteristics from [Homeowners](../cpcu/01-homeowners.md#the-25-itv-rating-characteristics) overlap significantly with what vulnerability modules need.
 
@@ -214,7 +214,7 @@ Every catastrophe model has three core modules:
 
 ### How Cat Load Enters the Rate
 
-The AAL from the cat model is added directly to the non-cat loss costs. In hurricane-exposed coastal Florida, the cat load can be 40-60% of the total homeowners premium. In a low-cat state like Wisconsin, it might be under 5%.
+The AAL from the cat model is added directly to the non-cat loss costs. In hurricane-exposed coastal Florida, the cat load can be 40-60% of the total homeowners premium (FLOIR, 2024). In a low-cat state like Wisconsin, it might be under 5% (Verisk, 2024).
 
 ### Connection to Reinsurance
 
@@ -240,11 +240,11 @@ Insurers often run two or all three vendor models and blend the results. Each mo
 | **Pay-per-mile (PPM)** | Mileage only (plus a base rate) | Metromile (now part of Lemonade), Mile, Nationwide SmartMiles |
 | **Hybrid** | Both mileage and behavior | Some newer programs combine elements |
 
-**Pay-per-mile mechanics**: The policyholder pays a fixed monthly base rate (covering liability minimums and fixed costs) plus a per-mile charge — typically $0.05-$0.14 per mile depending on location and driver profile. Most programs cap daily mileage charges (e.g., 250 miles/day) so occasional road trips don't spike the bill. PPM works best for drivers under 10,000 miles per year (Metromile, 2024).
+**Pay-per-mile mechanics**: The policyholder pays a fixed monthly base rate (covering liability minimums and fixed costs) plus a per-mile charge — typically $0.05-$0.14 per mile depending on location and driver profile (Metromile, 2024). Most programs cap daily mileage charges (e.g., 250 miles/day) so occasional road trips don't spike the bill (Metromile, 2024). PPM works best for drivers under 10,000 miles per year (Metromile, 2024).
 
 ### Typical Discounts (and Reality)
 
-Carriers advertise telematics discounts of **10-40%**:
+Carriers advertise telematics discounts of **10-40%** (AutoInsurance.com, 2025):
 
 | Carrier | Advertised Maximum Discount |
 |---------|----------------------------|
@@ -269,7 +269,7 @@ Carriers advertise telematics discounts of **10-40%**:
 
 ### Who Benefits Most
 
-Telematics programs tend to benefit low-mileage drivers and consistently safe drivers the most. Young drivers who can't demonstrate their safety through years of claims-free history can use telematics as an alternative proof of low risk. Remote workers who drive well under the national average of ~14,000 miles per year are prime candidates for pay-per-mile programs.
+Telematics programs tend to benefit low-mileage drivers and consistently safe drivers the most. Young drivers who can't demonstrate their safety through years of claims-free history can use telematics as an alternative proof of low risk. Remote workers who drive well under the national average of ~14,000 miles per year (FHWA, 2023) are prime candidates for pay-per-mile programs.
 
 ---
 
@@ -297,22 +297,22 @@ The timeline depends entirely on the state's regulatory approach (see [Rate Regu
 
 | State Approach | Typical Timeline | Example States |
 |---------------|-----------------|----------------|
-| **Prior approval** | 30-90 days (can stretch much longer) | Florida, New York, Texas |
+| **Prior approval** | 30-90 days (can stretch much longer) (NAIC, 2024) | Florida, New York, Texas |
 | **File-and-use** | Effective on filing; reviewed after | Most states for many lines |
-| **Use-and-file** | Effective immediately; file within 15-30 days | Several states for certain lines |
+| **Use-and-file** | Effective immediately; file within 15-30 days (NAIC, 2024) | Several states for certain lines |
 | **Open competition** | No filing required | Illinois (some lines) |
 
 ### Real-World Examples
 
 **Florida homeowners**: Florida uses prior approval and has been ground zero for rate volatility. Citizens Property Insurance — the state-created insurer of last resort — filed for an average 13.5% increase on HO-3 policies for 2025. The Office of Insurance Regulation (OIR) approved changes ranging from a 10% decrease to a 14% increase depending on territory. By 2026, approved Citizens rates showed a statewide average *decrease* of 8.7%, reflecting legislative reforms (SB 2-A in 2022) that curbed assignment-of-benefits abuse and one-way attorney fees (Citizens, 2024; FLOIR, 2025).
 
-**California auto under Proposition 103**: California's 1988 Proposition 103 created one of the most restrictive prior-approval regimes in the country. Key features:
+**California auto under Proposition 103**: California's 1988 Proposition 103 (CDI, 2024) created one of the most restrictive prior-approval regimes in the country. Key features:
 
 - The Insurance Commissioner must approve all rate changes before use
 - Public notice is required for all rate applications
-- Public hearings are mandatory for personal lines increases above 7%
+- Public hearings are mandatory for personal lines increases above 7% (CDI, 2024)
 - Consumer groups can intervene in rate proceedings and recover legal fees
-- Average filing delay: approximately 226 days for auto insurance — second slowest in the nation
+- Average filing delay: approximately 226 days for auto insurance — second slowest in the nation (ICLE, 2024)
 
 Prop 103 has kept California auto rates below the national average for decades, but critics argue the delays discourage carriers from entering or remaining in the market (CDI, 2024; ICLE, 2024).
 
@@ -339,7 +339,7 @@ The carrier's rate is $600 x 1.40 = $840. The 0.40 (or 40%) above 1.00 represent
 
 <details>
 <summary>Answer</summary>
-Individual rating factors create the spread. Credit-based insurance score alone can create a 2-3x difference. Add in variations in roof age and material, protection class (if zip code spans different fire districts), claims history, home age, construction type, and deductible choices, and the premium range within a single zip code can be enormous. Territory is the same, but most other factors differ person to person.
+Individual rating factors create the spread. Credit-based insurance score alone can create a 2-3x difference (CFA, 2024). Add in variations in roof age and material, protection class (if zip code spans different fire districts), claims history, home age, construction type, and deductible choices, and the premium range within a single zip code can be enormous. Territory is the same, but most other factors differ person to person.
 </details>
 
 **3.** A catastrophe model produces an Average Annual Loss (AAL) of $800 for a coastal property. What does this number represent, and how does it enter the premium?
@@ -360,7 +360,7 @@ California bans credit-based insurance scoring entirely under Proposition 103. T
 
 <details>
 <summary>Answer</summary>
-Not necessarily misleading, but the gap between advertised maximums and typical outcomes is well-documented. The "up to 30%" is the maximum possible discount for the very best drivers. Research from the Consumer Federation of America found typical savings closer to 10%, and some enrolled drivers even see increases. The carrier is advertising the ceiling, not the average — a common practice, but one that can set unrealistic expectations.
+Not necessarily misleading, but the gap between advertised maximums and typical outcomes is well-documented. The "up to 30%" is the maximum possible discount for the very best drivers. Research from the Consumer Federation of America found typical savings closer to 10% (CFA, 2024), and some enrolled drivers even see increases. The carrier is advertising the ceiling, not the average — a common practice, but one that can set unrealistic expectations.
 </details>
 
 **6.** Why does the cost of reinsurance affect what a homeowner pays for insurance?
@@ -389,6 +389,12 @@ Carriers buy reinsurance to cover catastrophic losses (e.g., losses from a 1-in-
 13. Moody's/RMS, "Catastrophe Risk Modeling," 2024. [rms.com](https://rms.com/models/)
 14. Verisk, "ISO Forms, Rules, and Loss Costs," 2024. [verisk.com](https://www.verisk.com/products/forms-rules-and-loss-costs/)
 15. SERFF, "System for Electronic Rate and Form Filing," NAIC. [serff.com](https://www.serff.com/)
+16. ICLE (International Center for Law & Economics), "Rate Regulation, Insurer Behavior, and Consumer Outcomes," 2024. [laweconcenter.org](https://laweconcenter.org/resources/rate-regulation-insurer-behavior-and-consumer-outcomes/)
+17. Metromile, "How Pay-Per-Mile Insurance Works," 2024. [metromile.com](https://www.metromile.com/how-it-works/)
+18. AutoInsurance.com, "Best Telematics Programs and Discounts," 2025. [autoinsurance.com](https://www.autoinsurance.com/discounts/telematics/)
+19. Cotality (formerly CoreLogic), "Catastrophe Risk Analytics," 2025. [cotality.com](https://www.cotality.com/solutions/catastrophe-risk-analytics)
+20. FHWA (Federal Highway Administration), "Average Annual Miles per Driver by Age Group," 2023. [fhwa.dot.gov](https://www.fhwa.dot.gov/ohim/onh00/bar8.htm)
+21. Florida Office of Insurance Regulation, "Citizens Property Insurance 2026 Rate Filing," 2025. [floir.com](https://floir.com/)
 
 ---
 

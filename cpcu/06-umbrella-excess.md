@@ -43,7 +43,7 @@ The umbrella sits on top of your other liability policies:
 
 1. The **underlying policy** (HO or auto) pays first, up to its limit
 2. If the claim exceeds the underlying limit, the **umbrella** picks up the rest, up to its limit
-3. If the claim involves something the underlying doesn't cover but the umbrella does, the umbrella pays after a **self-insured retention (SIR)** — commonly $250 to $10,000 on personal policies
+3. If the claim involves something the underlying doesn't cover but the umbrella does, the umbrella pays after a **self-insured retention (SIR)** — commonly $250 to $10,000 on personal policies (IRMI, 2024)
 
 ### Drop-Down Coverage
 
@@ -66,9 +66,9 @@ Umbrella insurers require you to carry minimum underlying limits. Typical requir
 
 | Underlying Policy | Minimum Required |
 |-------------------|-----------------|
-| **Homeowners (Coverage E)** | $300,000–$500,000 |
-| **Auto liability** | 250/500/100 or 300/300/100 |
-| **Watercraft liability** | $300,000–$500,000 |
+| **Homeowners (Coverage E)** | $300,000–$500,000 (IRMI, 2024) |
+| **Auto liability** | 250/500/100 or 300/300/100 (IRMI, 2024) |
+| **Watercraft liability** | $300,000–$500,000 (IRMI, 2024) |
 
 If you don't maintain these minimums and a claim hits, the umbrella insurer treats you as if you had the required limits — you're responsible for the gap.
 
@@ -110,9 +110,9 @@ Personal umbrellas are remarkably affordable relative to the coverage they provi
 
 | Limit | Approximate Annual Premium |
 |-------|--------------------------|
-| $1 million | $200–$400 |
-| $2 million | $300–$550 |
-| $5 million | $450–$800 |
+| $1 million | $200–$400 (III, 2024) |
+| $2 million | $300–$550 (III, 2024) |
+| $5 million | $450–$800 (III, 2024) |
 
 Premiums vary based on: number of vehicles, properties, drivers, driving records, and underlying limits.
 
@@ -133,7 +133,7 @@ Premiums vary based on: number of vehicles, properties, drivers, driving records
 
 The SIR is the deductible that applies when the umbrella provides drop-down coverage (no underlying policy responds):
 
-- Ranges from **$250 to $10,000** on most personal policies (commercial umbrellas may be $10,000–$25,000+)
+- Ranges from **$250 to $10,000** on most personal policies (IRMI, 2024) (commercial umbrellas may be $10,000–$25,000+ (IRMI, 2024))
 - Only applies to claims where the umbrella is broader than underlying
 - Does NOT apply when the claim is covered by underlying policies — in that case, the underlying policy is the "deductible"
 
@@ -166,7 +166,7 @@ Your auto pays $100,000 (your actual limit). The umbrella insurer treats you as 
 
 <details>
 <summary>Answer</summary>
-Approximately $300–$550 per year. Personal umbrellas are one of the best values in insurance — massive coverage for a relatively small premium.
+Approximately $300–$550 per year (III, 2024). Personal umbrellas are one of the best values in insurance — massive coverage for a relatively small premium.
 </details>
 
 **5.** What's the difference between "drop-down" coverage and regular excess coverage?

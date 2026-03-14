@@ -18,7 +18,7 @@ Underwriting is the process of deciding who to insure, on what terms, and at wha
 |--------|----------------|----------|
 | **Application** | Basic info: name, address, property details, vehicles, drivers | Starting point for all underwriting |
 | **Motor Vehicle Report (MVR)** | Driving history: violations, accidents, suspensions | Auto underwriting |
-| **CLUE Report** | Comprehensive Loss Underwriting Exchange — 7 years of claims history | Both HO and auto |
+| **CLUE Report** | Comprehensive Loss Underwriting Exchange — 7 years (LexisNexis, 2024) of claims history | Both HO and auto |
 | **Credit-Based Insurance Score** | Financial responsibility indicator | Both HO and auto (controversial but widely used) |
 | **Inspections** | Physical condition of property | Homeowners |
 | **Public records** | Court records, liens, bankruptcies | Risk character assessment |
@@ -55,7 +55,7 @@ The underwriter assesses:
 | **Roof age and material** | Old roofs = higher wind/water damage risk. Insurers increasingly surcharge or decline old roofs |
 | **Year built** | Older homes may have outdated wiring, plumbing, or not meet current code |
 | **Location** | Proximity to coast, wildfire zones, flood zones, crime rates |
-| **Protection class** | ISO rates fire departments 1–10 (1 = best). Distance to fire station and hydrant matters |
+| **Protection class** | ISO rates fire departments 1–10 (1 = best) (ISO/Verisk, 2024). Distance to fire station and hydrant matters |
 | **Square footage and replacement cost** | Determines the exposure amount |
 | **Heating type** | Wood stoves, space heaters = higher fire risk |
 | **Swimming pool** | Major liability exposure (especially unfenced) |
@@ -75,7 +75,7 @@ The underwriter assesses:
 
 | Factor | Why It Matters |
 |--------|---------------|
-| **Age of driver** | Young drivers (16–25) and elderly (75+) have higher accident rates |
+| **Age of driver** | Young drivers (16–25) and elderly (75+) have higher accident rates (IIHS-HLDI, 2024) |
 | **Driving record (MVR)** | DUI = major surcharge or decline. At-fault accidents, speeding tickets |
 | **Years of experience** | New drivers = higher risk |
 | **Vehicle type** | Sports cars, high-theft vehicles, luxury vehicles cost more to insure |
@@ -124,7 +124,7 @@ This is one of the most controversial underwriting tools:
 **The debate**:
 - **Proponents**: Strong statistical predictor of claims; allows more accurate pricing
 - **Critics**: Disproportionately affects low-income and minority communities; correlation ≠ causation
-- **Regulation**: Some states restrict or ban its use (California, Hawaii, Massachusetts, Maryland, and Michigan — full bans or significant restrictions depending on line of business)
+- **Regulation**: Some states restrict or ban its use (California, Hawaii, Massachusetts, Maryland, and Michigan (NAIC, 2024) — full bans or significant restrictions depending on line of business)
 
 ---
 
@@ -155,7 +155,7 @@ Moral hazard is dishonest intent — deliberately causing or exaggerating a loss
 
 <details>
 <summary>Answer</summary>
-Claim frequency is a stronger underwriting signal than severity. Multiple water claims suggest an ongoing problem (old plumbing, poor maintenance) and predict future losses. Many insurers will non-renew after 2-3 claims regardless of size.
+Claim frequency is a stronger underwriting signal than severity. Multiple water claims suggest an ongoing problem (old plumbing, poor maintenance) and predict future losses. Many insurers will non-renew after 2–3 claims (CPCU 556, 2024) regardless of size.
 </details>
 
 **3.** Why would an insurer care about a homeowner's credit-based insurance score?
@@ -176,7 +176,7 @@ Multiple red flags: young driver (highest accident rate age group), sports car (
 
 <details>
 <summary>Answer</summary>
-CLUE (Comprehensive Loss Underwriting Exchange) is a database containing 7 years of claims history for both homeowners and auto. It follows the person AND the property. Underwriters use it to identify frequent claimants and properties with loss histories. Even if you switch insurers, your claims history comes with you.
+CLUE (Comprehensive Loss Underwriting Exchange) is a database containing 7 years (LexisNexis, 2024) of claims history for both homeowners and auto. It follows the person AND the property. Underwriters use it to identify frequent claimants and properties with loss histories. Even if you switch insurers, your claims history comes with you.
 </details>
 
 ---
@@ -191,6 +191,7 @@ CLUE (Comprehensive Loss Underwriting Exchange) is a database containing 7 years
 6. Michigan Legislature, MCL Section 500.2153 (credit score ban in auto insurance reform, 2020). [legislature.mi.gov](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-500-2153)
 7. ISO / Verisk, "Protection Class Rating." [verisk.com](https://www.verisk.com/)
 8. CPCU Society / The Institutes, *CPCU 556: Personal Risk Management and Insurance*, course materials.
+9. IIHS-HLDI, "Fatality Facts 2022: Teenagers and Older People." 2024. [iihs.org](https://www.iihs.org/topics/fatality-statistics/detail/teenagers-and-older-people)
 
 ---
 

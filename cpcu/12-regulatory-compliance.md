@@ -14,10 +14,10 @@ Insurance is one of the most heavily regulated industries in the U.S. — and un
 
 ### Why States, Not the Federal Government?
 
-The **McCarran-Ferguson Act (1945)** established that states have primary authority to regulate insurance. Congress can override this, but the default is state regulation.
+The **McCarran-Ferguson Act (1945)** (McCarran-Ferguson Act, 1945) established that states have primary authority to regulate insurance. Congress can override this, but the default is state regulation.
 
 **What this means in practice:**
-- 50 different sets of rules (plus D.C. and territories)
+- 50 different sets of rules (NAIC, 2024) (plus D.C. and territories)
 - Each state has a **Department of Insurance** (DOI) headed by a Commissioner
 - Insurers must be licensed in each state where they do business
 - Rates, forms, and market conduct rules vary by state
@@ -80,7 +80,7 @@ Ensuring insurers can pay claims:
 ### Producer Licensing
 - Agents and brokers must be licensed in each state where they sell
 - Requires passing a state exam
-- Continuing education (CE) requirements — typically 24 hours every 2 years
+- Continuing education (CE) requirements — typically 24 hours every 2 years (NAIC, 2024)
 - Different license lines: property, casualty, life, health, surplus lines
 
 ---
@@ -132,7 +132,7 @@ What happens when an insurer goes insolvent (can't pay claims)?
 - Each state has a guaranty fund (or association)
 - Funded by assessments on all licensed insurers in the state
 - When an insurer is declared insolvent, the guaranty fund steps in to pay claims
-- **Limits apply**: Most states cap at $300,000 per claim; some allow up to $500,000 (varies by state and line)
+- **Limits apply**: Most states cap at $300,000 per claim; some allow up to $500,000 (NAIC, 2024) (varies by state and line)
 - Only covers claims from residents of the state
 - Only applies to admitted (licensed) insurers
 
@@ -149,9 +149,9 @@ What happens when an insurer goes insolvent (can't pay claims)?
 For risks that can't get coverage in the standard (voluntary) market:
 
 ### FAIR Plans (Fair Access to Insurance Requirements)
-- Created after urban riots in the 1960s
+- Created after urban riots in the 1960s (NAIC, 2024)
 - Provide basic property insurance for properties that can't get coverage elsewhere
-- Available in 35 states plus D.C. (as of 2025)
+- Available in 35 states plus D.C. (III, 2024) (as of 2025)
 - Coverage is often more limited and more expensive than the voluntary market
 - Designed as a last resort, not a competitive alternative
 
@@ -179,7 +179,7 @@ The National Flood Insurance Program itself is essentially a residual market mec
 
 <details>
 <summary>Answer</summary>
-The McCarran-Ferguson Act of 1945. It provides that state laws regulating insurance are not preempted by federal law unless a federal statute specifically relates to insurance.
+The McCarran-Ferguson Act of 1945 (McCarran-Ferguson Act, 1945). It provides that state laws regulating insurance are not preempted by federal law unless a federal statute specifically relates to insurance.
 </details>
 
 **2.** An agent convinces a client to cancel a perfectly good homeowners policy to buy a new one from a different carrier, using misleading comparisons. What unfair trade practice is this?
@@ -200,7 +200,7 @@ Provide an adverse action notice informing the applicant that credit information
 
 <details>
 <summary>Answer</summary>
-The state guaranty fund steps in. It pays covered claims up to state limits (most states cap at $300K per claim; some up to $500K). The insolvent insurer's assets are liquidated first, and the guaranty fund covers the remaining gap. The guaranty fund recovers its payouts through assessments on all other licensed insurers in the state.
+The state guaranty fund steps in. It pays covered claims up to state limits (most states cap at $300K per claim; some up to $500K) (NAIC, 2024). The insolvent insurer's assets are liquidated first, and the guaranty fund covers the remaining gap. The guaranty fund recovers its payouts through assessments on all other licensed insurers in the state.
 </details>
 
 **5.** A driver with two DUIs can't find auto insurance in the voluntary market. What's their option?
@@ -218,13 +218,16 @@ The assigned risk plan (also called the residual market or automobile insurance 
 
 ## Sources
 
-1. NAIC, "McCarran-Ferguson Act," accessed 2025. [content.naic.org](https://content.naic.org/insurance-topics/mccarran-ferguson-act)
-2. NAIC, "Fair Access to Insurance Requirements Plans," accessed 2025. [content.naic.org](https://content.naic.org/insurance-topics/fair-access-to-insurance-requirements-plans)
-3. NAIC, "Guaranty Associations & Funds," accessed 2025. [content.naic.org](https://content.naic.org/insurance-topics/guaranty-associations-and-funds)
-4. NAIC, "Property and Casualty Insurance Guaranty Association Model Act (#540)." [content.naic.org](https://content.naic.org/sites/default/files/inline-files/MDL-540.pdf)
-5. Insurance Information Institute, "McCarran-Ferguson Act," accessed 2025. [iii.org](https://www.iii.org/publications/insurance-handbook/regulatory-and-financial-environment/mccarran-ferguson-act)
-6. Insurance Information Institute, "Insurance Provided by FAIR Plans by State," 2024. [iii.org](https://www.iii.org/insurance-provided-by-fair-plans-by-state-fiscal-year-2024-1)
-7. Federal Reserve Bank of Chicago, "Insurance on Insurers: How State Insurance Guaranty Funds Protect Policyholders," 2024. [chicagofed.org](https://www.chicagofed.org/publications/economic-perspectives/2024/3)
+1. McCarran-Ferguson Act, 15 U.S.C. §§ 1011–1015, 1945. [congress.gov](https://www.congress.gov/bill/79th-congress/senate-bill/340)
+2. NAIC, "McCarran-Ferguson Act," accessed 2025. [content.naic.org](https://content.naic.org/insurance-topics/mccarran-ferguson-act)
+3. NAIC, "State Insurance Regulation," 2024. [content.naic.org](https://content.naic.org/insurance-topics/state-insurance-regulation)
+4. NAIC, "Fair Access to Insurance Requirements Plans," accessed 2025. [content.naic.org](https://content.naic.org/insurance-topics/fair-access-to-insurance-requirements-plans)
+5. NAIC, "Guaranty Associations & Funds," accessed 2025. [content.naic.org](https://content.naic.org/insurance-topics/guaranty-associations-and-funds)
+6. NAIC, "Property and Casualty Insurance Guaranty Association Model Act (#540)." [content.naic.org](https://content.naic.org/sites/default/files/inline-files/MDL-540.pdf)
+7. NAIC, "Producer Licensing (Uniform) Model Act (#218)," 2024. [content.naic.org](https://content.naic.org/sites/default/files/inline-files/MDL-218.pdf)
+8. Insurance Information Institute (III), "McCarran-Ferguson Act," accessed 2025. [iii.org](https://www.iii.org/publications/insurance-handbook/regulatory-and-financial-environment/mccarran-ferguson-act)
+9. Insurance Information Institute (III), "Insurance Provided by FAIR Plans by State," 2024. [iii.org](https://www.iii.org/insurance-provided-by-fair-plans-by-state-fiscal-year-2024-1)
+10. Federal Reserve Bank of Chicago, "Insurance on Insurers: How State Insurance Guaranty Funds Protect Policyholders," 2024. [chicagofed.org](https://www.chicagofed.org/publications/economic-perspectives/2024/3)
 
 ---
 

@@ -18,7 +18,7 @@ D. Only Coverage A (Dwelling)
 
 <details>
 <summary>Answer</summary>
-**B.** The HO-3 is a hybrid: open peril on the dwelling (A) and other structures (B), named peril on personal property (C). This is one of the most fundamental and frequently tested concepts.
+**B.** The HO-3 is a hybrid: open peril on the dwelling (A) and other structures (B), named peril on personal property (C) (ISO, HO 00 03, 2011). This is one of the most fundamental and frequently tested concepts.
 </details>
 
 ---
@@ -27,19 +27,19 @@ D. Only Coverage A (Dwelling)
 A client's jewelry collection is worth $12,000. Their HO-3 has standard sub-limits. Without any endorsements, what is the maximum the policy will pay for theft of the entire collection?
 
 A. $12,000
-B. $2,500
-C. $1,500
-D. $500
+B. $2,500 (ISO, HO 00 03, 2011)
+C. $1,500 (ISO, HO 00 03, 2011)
+D. $500 (ISO, HO 00 03, 2011)
 
 <details>
 <summary>Answer</summary>
-**C. $1,500.** The HO-3 sub-limit for jewelry, watches, and furs is $1,500 for theft. A scheduled personal property endorsement is needed for the full value.
+**C. $1,500.** The HO-3 sub-limit for jewelry, watches, and furs is $1,500 (ISO, HO 00 03, 2011) for theft. A scheduled personal property endorsement is needed for the full value.
 </details>
 
 ---
 
 ### Question 3 — Homeowners Coinsurance
-A home has a replacement cost of $500,000. The owner insures it for $350,000. The policy has an 80% coinsurance clause. The owner suffers a $100,000 covered loss. How much does the insurer pay?
+A home has a replacement cost of $500,000. The owner insures it for $350,000. The policy has an 80% coinsurance clause (ISO, HO 00 03, 2011). The owner suffers a $100,000 covered loss. How much does the insurer pay?
 
 A. $100,000
 B. $87,500
@@ -48,7 +48,7 @@ D. $70,000
 
 <details>
 <summary>Answer</summary>
-**B. $87,500.** Required amount: 80% × $500K = $400K. Ratio: $350K / $400K = 0.875. Payment: 0.875 × $100K = $87,500.
+**B. $87,500.** Required amount: 80% (ISO, HO 00 03, 2011) × $500K = $400K. Ratio: $350K / $400K = 0.875. Payment: 0.875 × $100K = $87,500.
 </details>
 
 ---
@@ -63,7 +63,7 @@ D. The highest-limit policy
 
 <details>
 <summary>Answer</summary>
-**B. The car.** The owner's policy on the vehicle is primary. The driver's own policy is excess. Insurance follows the car first, then the driver.
+**B. The car.** The owner's policy on the vehicle is primary (ISO, PP 00 01, 2018). The driver's own policy is excess. Insurance follows the car first, then the driver.
 </details>
 
 ---
@@ -78,7 +78,7 @@ D. Not covered under the PAP
 
 <details>
 <summary>Answer</summary>
-**B. Other Than Collision.** Contact with an animal is specifically classified as OTC/comprehensive under the PAP, not collision. This matters because OTC claims often don't increase premiums and may have a different deductible.
+**B. Other Than Collision.** Contact with an animal is specifically classified as OTC/comprehensive under the PAP (ISO, PP 00 01, 2018), not collision. This matters because OTC claims often don't increase premiums and may have a different deductible.
 </details>
 
 ---
@@ -93,7 +93,7 @@ D. $300,000
 
 <details>
 <summary>Answer</summary>
-**D. $300,000.** In a stacking state, UM limits are added across all vehicles: 3 × $100K = $300K. The $250K claim is fully covered.
+**D. $300,000.** In a stacking state, UM limits are added across all vehicles (NAIC, 2024): 3 × $100K = $300K. The $250K claim is fully covered.
 </details>
 
 ---
@@ -108,13 +108,13 @@ D. Windstorm damage to the roof
 
 <details>
 <summary>Answer</summary>
-**C. Defamation.** Personal injury (libel, slander, defamation) is often excluded from the HO but covered by the umbrella. When the umbrella covers something the underlying doesn't, it "drops down" after the self-insured retention.
+**C. Defamation.** Personal injury (libel, slander, defamation) is often excluded from the HO but covered by the umbrella (IRMI, 2024). When the umbrella covers something the underlying doesn't, it "drops down" after the self-insured retention (IRMI, 2024).
 </details>
 
 ---
 
 ### Question 8 — Umbrella Underlying Requirements
-A client has a $1M umbrella requiring $300K underlying auto liability. They actually carry $100K. They cause a $500K accident. How much is the client personally responsible for?
+A client has a $1M umbrella requiring $300K underlying auto liability (IRMI, 2024). They actually carry $100K. They cause a $500K accident. How much is the client personally responsible for?
 
 A. $0
 B. $100,000
@@ -123,7 +123,7 @@ D. $500,000
 
 <details>
 <summary>Answer</summary>
-**C. $200,000.** Auto pays $100K (actual limit). Umbrella applies above the *required* limit ($300K), so it pays $200K ($500K - $300K). The $200K gap between the actual ($100K) and required ($300K) limits is the client's responsibility.
+**C. $200,000.** Auto pays $100K (actual limit). Umbrella applies above the *required* limit ($300K) (IRMI, 2024), so it pays $200K ($500K - $300K). The $200K gap between the actual ($100K) and required ($300K) limits is the client's responsibility.
 </details>
 
 ---
@@ -153,7 +153,7 @@ D. Subject to capital gains tax
 
 <details>
 <summary>Answer</summary>
-**C. Income-tax-free.** Under IRC Section 101, life insurance death proceeds paid to a beneficiary are received free of income tax. This is one of the most significant tax advantages of life insurance.
+**C. Income-tax-free.** Under IRC Section 101 (26 U.S.C. §101), life insurance death proceeds paid to a beneficiary are received free of income tax. This is one of the most significant tax advantages of life insurance.
 </details>
 
 ---
@@ -174,7 +174,7 @@ D. The time to process the application
 ---
 
 ### Question 12 — Health Insurance
-A client has a $2,000 deductible, 80/20 coinsurance, and $8,000 out-of-pocket maximum. They incur $50,000 in medical bills. What is their total out-of-pocket cost?
+A client has a $2,000 deductible, 80/20 coinsurance (ACA/42 U.S.C. § 18022, 2010), and $8,000 out-of-pocket maximum. They incur $50,000 in medical bills. What is their total out-of-pocket cost?
 
 A. $2,000
 B. $8,000
@@ -183,7 +183,7 @@ D. $10,000
 
 <details>
 <summary>Answer</summary>
-**B. $8,000.** Deductible: $2,000. Coinsurance on remaining $48,000: 20% = $9,600. Total would be $11,600, but the out-of-pocket maximum caps it at $8,000.
+**B. $8,000.** Deductible: $2,000. Coinsurance on remaining $48,000: 20% (ACA/42 U.S.C. § 18022, 2010) = $9,600. Total would be $11,600, but the out-of-pocket maximum caps it at $8,000.
 </details>
 
 ---
@@ -198,7 +198,7 @@ D. Part D
 
 <details>
 <summary>Answer</summary>
-**A. Part A.** Part A covers inpatient/hospital, skilled nursing (limited), hospice, and some home health. Part B covers outpatient/doctor visits. Part C is Medicare Advantage. Part D is prescription drugs.
+**A. Part A.** Part A covers inpatient/hospital, skilled nursing (limited), hospice, and some home health (CMS, 2025). Part B covers outpatient/doctor visits. Part C is Medicare Advantage. Part D is prescription drugs.
 </details>
 
 ---
@@ -223,18 +223,18 @@ A CLUE report tracks:
 
 A. Credit scores and payment history
 B. Driving violations and license status
-C. Claims history for 7 years
+C. Claims history for 7 years (LexisNexis, 2024)
 D. Property tax records and liens
 
 <details>
 <summary>Answer</summary>
-**C. Claims history for 7 years.** CLUE (Comprehensive Loss Underwriting Exchange) tracks personal insurance claims history for both homeowners and auto, following both the person and the property.
+**C. Claims history for 7 years (LexisNexis, 2024).** CLUE (Comprehensive Loss Underwriting Exchange) tracks personal insurance claims history for both homeowners and auto, following both the person and the property.
 </details>
 
 ---
 
 ### Question 16 — Rating
-A combined ratio of 108% means the insurer is:
+A combined ratio of 108% (CPCU 556 Course Materials) means the insurer is:
 
 A. Earning an 8% underwriting profit
 B. Losing 8 cents on every premium dollar from underwriting
@@ -243,7 +243,7 @@ D. 108% funded
 
 <details>
 <summary>Answer</summary>
-**B. Losing 8 cents on every premium dollar from underwriting.** A combined ratio above 100% means underwriting losses. The insurer may still be profitable overall if investment income offsets the underwriting loss.
+**B. Losing 8 cents on every premium dollar from underwriting.** A combined ratio above 100% means underwriting losses (CPCU 556 Course Materials). The insurer may still be profitable overall if investment income offsets the underwriting loss.
 </details>
 
 ---
@@ -273,7 +273,7 @@ D. Municipal
 
 <details>
 <summary>Answer</summary>
-**C. State.** The McCarran-Ferguson Act of 1945 established state primacy in insurance regulation. The NAIC is a coordinating body, not a regulator. Each state has its own Department of Insurance.
+**C. State.** The McCarran-Ferguson Act of 1945 (McCarran-Ferguson Act, 1945) established state primacy in insurance regulation. The NAIC is a coordinating body, not a regulator. Each state has its own Department of Insurance.
 </details>
 
 ---
@@ -283,12 +283,12 @@ The maximum residential building coverage under the NFIP is:
 
 A. $100,000
 B. $150,000
-C. $250,000
+C. $250,000 (FEMA/NFIP, 2025)
 D. $500,000
 
 <details>
 <summary>Answer</summary>
-**C. $250,000.** NFIP max is $250K for building and $100K for contents for residential properties. Higher limits require private flood insurance.
+**C. $250,000.** NFIP max is $250K for building and $100K for contents (FEMA/NFIP, 2025) for residential properties. Higher limits require private flood insurance.
 </details>
 
 ---
@@ -318,13 +318,13 @@ D. Scheduled personal property
 
 <details>
 <summary>Answer</summary>
-**B. Water backup / sump overflow.** Sewer and drain backup is excluded from the base HO policy and is one of the most frequent and costly losses homeowners experience. It typically costs $30-$75/year to add — making it one of the highest-value endorsements available.
+**B. Water backup / sump overflow.** Sewer and drain backup is excluded from the base HO policy and is one of the most frequent and costly losses homeowners experience. It typically costs $30-$75/year (Progressive, 2025) to add — making it one of the highest-value endorsements available.
 </details>
 
 ---
 
 ### Question 22 — CIC: E&O
-An agent recommends a $1M umbrella to a client. The client declines. What should the agent do?
+An agent recommends a $1M umbrella (III, 2024) to a client. The client declines. What should the agent do?
 
 A. Nothing further — the client decided
 B. Document the recommendation and the client's declination in writing
@@ -348,7 +348,7 @@ D. The drone is covered as personal property under Coverage C
 
 <details>
 <summary>Answer</summary>
-**C. The aircraft exclusion applies.** Drones are classified as aircraft, and the HO policy excludes aircraft liability. A separate drone liability policy or endorsement is needed.
+**C. The aircraft exclusion applies.** Drones are classified as aircraft, and the HO policy excludes aircraft liability (ISO, HO 00 03, 2011). A separate drone liability policy or endorsement is needed.
 </details>
 
 ---
@@ -363,7 +363,7 @@ D. The replacement cost of a new vehicle
 
 <details>
 <summary>Answer</summary>
-**C. Actual cash value minus the deductible.** ACV is the replacement cost minus depreciation. If the ACV is less than what the client owes on their loan, they need gap coverage to cover the difference.
+**C. Actual cash value minus the deductible.** ACV is the replacement cost minus depreciation (ISO, PP 00 01, 2018). If the ACV is less than what the client owes on their loan, they need gap coverage to cover the difference.
 </details>
 
 ---
@@ -372,9 +372,9 @@ D. The replacement cost of a new vehicle
 A client has both CPCU and CIC knowledge. They're reviewing a homeowner's policy. Which of the following is a CIC-style observation that goes beyond typical CPCU analysis?
 
 A. The policy is an HO-3 with open peril on the dwelling
-B. The coinsurance clause requires 80% insurance to value
+B. The coinsurance clause requires 80% insurance to value (ISO, HO 00 03, 2011)
 C. The client has no water backup endorsement, an older home with no ordinance or law coverage, and runs a side business from the garage — three gaps that need endorsements today
-D. The combined ratio for this line of business is 104%
+D. The combined ratio for this line of business is 104% (CPCU 556 Course Materials)
 
 <details>
 <summary>Answer</summary>
@@ -393,13 +393,13 @@ D. Dodd-Frank Act
 
 <details>
 <summary>Answer</summary>
-**C. Proposition 103 (1988).** This California ballot initiative established strict prior-approval rate regulation, limited auto rating factors to driving record, annual mileage, and years of experience, and effectively banned credit scores for auto insurance. See [State-by-State Regulation Guide](04-state-regulation-guide.md) for details.
+**C. Proposition 103 (1988) (Proposition 103, 1988).** This California ballot initiative established strict prior-approval rate regulation, limited auto rating factors to driving record, annual mileage, and years of experience, and effectively banned credit scores for auto insurance. See [State-by-State Regulation Guide](04-state-regulation-guide.md) for details.
 </details>
 
 ---
 
 ### Question 27 — No-Fault Auto
-A driver in Pennsylvania chose the "limited tort" option. They're rear-ended and suffer soft tissue neck injuries with $8,000 in medical bills but no permanent injury. Can they sue the at-fault driver for pain and suffering?
+A driver in Pennsylvania chose the "limited tort" option (PA Insurance Dept., 2025). They're rear-ended and suffer soft tissue neck injuries with $8,000 in medical bills but no permanent injury. Can they sue the at-fault driver for pain and suffering?
 
 A. Yes — they can always sue regardless of tort election
 B. Yes — but only for the medical bills, not pain and suffering
@@ -408,13 +408,13 @@ D. No — Pennsylvania is a pure no-fault state with no right to sue
 
 <details>
 <summary>Answer</summary>
-**C.** Under Pennsylvania's limited tort option, the injured party can only sue for pain and suffering if the injuries meet the "serious injury" threshold. Soft tissue injuries without permanent limitation typically don't qualify. The driver saved on premium but gave up the right to sue for non-economic damages in this scenario.
+**C.** Under Pennsylvania's limited tort option (PA Insurance Dept., 2025), the injured party can only sue for pain and suffering if the injuries meet the "serious injury" threshold. Soft tissue injuries without permanent limitation typically don't qualify. The driver saved on premium but gave up the right to sue for non-economic damages in this scenario.
 </details>
 
 ---
 
 ### Question 28 — Rating Mechanics
-An insurer uses ISO advisory loss costs with a loss cost multiplier (LCM) of 1.38. ISO's loss cost for a class is $450. What is the carrier's rate, and what does the 0.38 represent?
+An insurer uses ISO advisory loss costs (Verisk, 2024) with a loss cost multiplier (LCM) of 1.38. ISO's loss cost for a class is $450. What is the carrier's rate, and what does the 0.38 represent?
 
 A. $450 — the LCM is applied separately
 B. $621 — the 0.38 covers expenses and profit
@@ -423,13 +423,13 @@ D. $171 — you subtract the loss cost from the rate
 
 <details>
 <summary>Answer</summary>
-**B. $621.** $450 × 1.38 = $621. The 0.38 (38%) above 1.00 represents the carrier's provisions for commissions, operating expenses, taxes, and profit — everything beyond the pure loss cost. See [Rating Deep Dive](05-rating-deep-dive.md) for the full premium waterfall.
+**B. $621.** $450 × 1.38 = $621. The 0.38 (38%) above 1.00 represents the carrier's provisions for commissions, operating expenses, taxes, and profit — everything beyond the pure loss cost (Verisk, 2024). See [Rating Deep Dive](05-rating-deep-dive.md) for the full premium waterfall.
 </details>
 
 ---
 
 ### Question 29 — Catastrophe Modeling
-A catastrophe model produces an Average Annual Loss (AAL) of $1,200 for a coastal homeowners risk. What does this mean?
+A catastrophe model produces an Average Annual Loss (AAL) of $1,200 (Moody's, 2024) for a coastal homeowners risk. What does this mean?
 
 A. The property will suffer exactly $1,200 in cat losses this year
 B. The maximum possible cat loss is $1,200
@@ -438,13 +438,13 @@ D. The insurer's deductible for catastrophe claims is $1,200
 
 <details>
 <summary>Answer</summary>
-**C.** The AAL represents the long-run average annual catastrophe loss — most years the loss is $0, but occasional catastrophic years bring very large losses. The AAL is added directly to non-cat loss costs as a "cat load" when building the premium. This is why coastal premiums are high even in years without hurricanes.
+**C.** The AAL represents the long-run average annual catastrophe loss (Moody's, 2024) — most years the loss is $0, but occasional catastrophic years bring very large losses. The AAL is added directly to non-cat loss costs as a "cat load" when building the premium. This is why coastal premiums are high even in years without hurricanes.
 </details>
 
 ---
 
 ### Question 30 — Telematics
-A customer enrolls in a pay-per-mile (PPM) auto insurance program and drives 6,000 miles per year. How is their premium calculated?
+A customer enrolls in a pay-per-mile (PPM) auto insurance program and drives 6,000 miles per year (Metromile, 2024). How is their premium calculated?
 
 A. Standard premium minus a mileage discount
 B. A fixed monthly base rate plus a per-mile charge
@@ -453,7 +453,7 @@ D. Per-mile charge only, with no base rate
 
 <details>
 <summary>Answer</summary>
-**B.** PPM programs charge a fixed monthly base rate (covering liability minimums and fixed costs) plus a per-mile charge — typically $0.05–$0.14 per mile. A low-mileage driver at 6,000 miles/year benefits most. Most programs cap daily mileage charges so occasional long trips don't spike the bill.
+**B.** PPM programs charge a fixed monthly base rate (covering liability minimums and fixed costs) plus a per-mile charge — typically $0.05–$0.14 per mile (Metromile, 2024). A low-mileage driver at 6,000 miles/year benefits most. Most programs cap daily mileage charges so occasional long trips don't spike the bill.
 </details>
 
 ---
@@ -468,7 +468,7 @@ D. Citizens Property Insurance
 
 <details>
 <summary>Answer</summary>
-**C. TWIA (Texas Windstorm Insurance Association).** TWIA provides wind and hail coverage for 14 Texas coastal counties where the voluntary market has retreated. CEA is California earthquake. Citizens is Florida's residual market. NFIP is federal flood. See [State-by-State Regulation Guide](04-state-regulation-guide.md) for details.
+**C. TWIA (Texas Windstorm Insurance Association).** TWIA provides wind and hail coverage for 14 Texas coastal counties (TDI, 2025) where the voluntary market has retreated. CEA is California earthquake. Citizens is Florida's residual market. NFIP is federal flood. See [State-by-State Regulation Guide](04-state-regulation-guide.md) for details.
 </details>
 
 ---
@@ -483,7 +483,7 @@ D. Michigan
 
 <details>
 <summary>Answer</summary>
-**C. New York.** New York is the only state that mandates SUM coverage. Insurers must offer SUM up to $25,000/$50,000, with options up to $250,000/$500,000. Other states require UM, UIM, or both, but none use New York's SUM structure.
+**C. New York.** New York is the only state that mandates SUM coverage (NY DFS, 2025). Insurers must offer SUM up to $25,000/$50,000 (NY DFS, 2025), with options up to $250,000/$500,000 (NY DFS, 2025). Other states require UM, UIM, or both, but none use New York's SUM structure.
 </details>
 
 ---
@@ -496,6 +496,31 @@ D. Michigan
 | 22-27 | Good | Review the topics you missed |
 | 16-21 | Fair | Focus study on weak areas — use the individual chapter files |
 | Below 16 | Needs work | Start from the beginning and work through each file in order |
+
+---
+
+## Sources
+
+1. Insurance Services Office (ISO), "Homeowners 3 — Special Form HO 00 03," 2011 edition. [iii.org (sample form)](https://www.iii.org/sites/default/files/docs/pdf/HO3_sample.pdf)
+2. Insurance Services Office (ISO), "Personal Auto Policy PP 00 01 09 18," 2018. [iso.com](https://www.iso.com)
+3. IRMI (International Risk Management Institute), "Personal Umbrella Liability Insurance," 2024. [irmi.com](https://www.irmi.com/term/insurance-definitions/personal-umbrella-liability-insurance)
+4. NAIC, "State Insurance Charts" and "UM/UIM Stacking Provisions," 2024. [content.naic.org](https://content.naic.org)
+5. LexisNexis Risk Solutions, "C.L.U.E. Auto and Property Reports," 2024. [risk.lexisnexis.com](https://risk.lexisnexis.com/products/clue-auto)
+6. CPCU Society / The Institutes, *CPCU 556: Personal Risk Management and Insurance*, course materials.
+7. McCarran-Ferguson Act, 15 U.S.C. §§ 1011–1015, 1945. [law.cornell.edu](https://www.law.cornell.edu/uscode/text/15/1011)
+8. 26 U.S.C. §101, "Certain Death Benefits." [law.cornell.edu](https://www.law.cornell.edu/uscode/text/26/101)
+9. ACA/42 U.S.C. § 18022, "Essential Health Benefits Requirements" and "Levels of Coverage" (metal tiers), 2010. [law.cornell.edu](https://www.law.cornell.edu/uscode/text/42/18022)
+10. CMS, "2026 Medicare Parts A & B Premiums and Deductibles," 2025. [cms.gov](https://www.cms.gov/newsroom/fact-sheets/2026-medicare-parts-b-premiums-deductibles)
+11. FEMA, "National Flood Insurance Program Summary of Coverage," 2025. [fema.gov](https://www.fema.gov/flood-insurance)
+12. Progressive, "Water Backup Coverage," 2025. [progressive.com](https://www.progressive.com/homeowners/coverages/water-backup-coverage/)
+13. Insurance Information Institute (III), "Facts + Statistics: Umbrella/Excess Liability Insurance," 2024. [iii.org](https://www.iii.org)
+14. Proposition 103, California Insurance Code §§ 1861.01–1861.16, 1988. [insurance.ca.gov](https://www.insurance.ca.gov/01-consumers/150-other-prog/01-intervenor/)
+15. Pennsylvania Insurance Department, "Limited Tort vs. Full Tort," 2025. [insurance.pa.gov](https://www.insurance.pa.gov)
+16. Verisk / ISO, "Loss Costs and Rating," 2024. [verisk.com](https://www.verisk.com/products/forms-rules-and-loss-costs/)
+17. Moody's/RMS, "Catastrophe Risk Modeling," 2024. [rms.com](https://rms.com/models/)
+18. Metromile (now part of Lemonade), "Pay-Per-Mile Auto Insurance," 2024. [metromile.com](https://www.metromile.com)
+19. Texas Department of Insurance, "TWIA Overview," 2025. [tdi.texas.gov](https://www.tdi.texas.gov)
+20. New York Department of Financial Services (DFS), SUM coverage guidance and enforcement bulletins, 2025. [dfs.ny.gov](https://www.dfs.ny.gov)
 
 ---
 

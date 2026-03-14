@@ -47,11 +47,11 @@ What counts as a "covered auto":
 1. **Vehicles shown on the declarations page**
 2. **Newly acquired vehicles** — automatic coverage, but:
    - If you already have a vehicle of that type: coverage extends automatically for the policy period (but notify the insurer)
-   - If it's an additional vehicle (broadening coverage): **14 days** to notify (30 days in some policies)
+   - If it's an additional vehicle (broadening coverage): **14 days** (ISO, PP 00 01, 2018) to notify (30 days in some policies)
 3. **Temporary substitute vehicles** — loaners, rentals while your car is being repaired
 4. **Trailers** — coverage for owned trailers
 
-**Agent trap**: Client buys a new car Friday afternoon. Wraps it around a pole Saturday. If they didn't notify you and it's an additional vehicle (not a replacement), coverage may only last 14 days — and that clock started at purchase, not at the accident.
+**Agent trap**: Client buys a new car Friday afternoon. Wraps it around a pole Saturday. If they didn't notify you and it's an additional vehicle (not a replacement), coverage may only last 14 days (ISO, PP 00 01, 2018) — and that clock started at purchase, not at the accident.
 
 ---
 
@@ -79,8 +79,8 @@ If the three claimants get $200K, $150K, and $100K awards:
 - Pays regardless of fault
 - Your client + passengers in the covered auto
 - Your client as a pedestrian struck by a vehicle
-- Typical limits: $1,000–$10,000
-- Treatment within 3 years of accident
+- Typical limits: $1,000–$10,000 (ISO, PP 00 01, 2018)
+- Treatment within 3 years of accident (ISO, PP 00 01, 2018)
 
 **Agent tip**: In no-fault states, PIP replaces Med Pay. PIP is broader (lost wages, essential services, funeral). Know which one your state uses.
 
@@ -109,7 +109,7 @@ Two coverages:
 1. OTC claims often don't raise rates
 2. OTC deductibles may be different from collision deductibles
 
-**Total loss**: When repair cost exceeds the threshold (usually 70-80% of ACV), the vehicle is totaled. Insurer pays ACV minus deductible.
+**Total loss**: When repair cost exceeds the threshold (usually 70–80% of ACV) (III, 2025), the vehicle is totaled. Insurer pays ACV minus deductible.
 
 **Gap coverage**: If the client owes $28K on a loan but the car's ACV is $22K, they're $6K short after a total loss. Gap insurance covers the difference.
 
@@ -119,7 +119,7 @@ Two coverages:
 
 | Exclusion | The Trap |
 |-----------|---------|
-| **Vehicles with fewer than 4 wheels** | Client buys a motorcycle, assumes it's covered. It's not — needs a separate motorcycle policy |
+| **Vehicles with fewer than 4 wheels** (ISO, PP 00 01, 2018) | Client buys a motorcycle, assumes it's covered. It's not — needs a separate motorcycle policy |
 | **Vehicles used as public conveyance** | Client starts driving for Uber/Lyft. PAP excludes it. Need rideshare endorsement or commercial coverage |
 | **Business-owned vehicles** | Client's LLC owns the car. PAP is personal — need a commercial auto policy |
 | **Vehicles used in auto business** | Client works at a dealership and drives customer cars. Not covered for non-owned vehicles used in auto business |
@@ -146,18 +146,18 @@ Two coverages:
 
 | State | Minimum BI/PD |
 |-------|--------------|
-| California | 30/60/15 (effective Jan 2025; was 15/30/5) |
-| Florida | PIP $10K + PDL $10K (no BI required; changing to 25/50/10 in July 2026) |
-| New York | 25/50/10 |
-| Texas | 30/60/25 |
-| Alaska | 50/100/25 |
+| California | 30/60/15 (CA SB 1107, 2024) (effective Jan 2025; was 15/30/5) |
+| Florida | PIP $10K + PDL $10K (FL DHSMV, 2025) (no BI required; changing to 25/50/10 in July 2026) |
+| New York | 25/50/10 (NY DMV, 2025) |
+| Texas | 30/60/25 (TDI, 2025) |
+| Alaska | 50/100/25 (NAIC, 2024) |
 
 **Agent lesson**: Minimum limits are never enough. They exist for financial responsibility compliance, not actual protection.
 
 ### No-Fault vs. Tort States
-- **No-fault (12 states + Puerto Rico)**: Your own PIP pays your injuries first. Can only sue if injuries exceed a threshold.
+- **No-fault (12 states + Puerto Rico)** (III, 2025): Your own PIP pays your injuries first. Can only sue if injuries exceed a threshold.
 - **Tort (majority)**: The at-fault driver's liability coverage pays the injured party's damages.
-- **Choice states (KY, NJ, PA)**: Insureds can choose between no-fault and tort.
+- **Choice states (KY, NJ, PA)** (III, 2025): Insureds can choose between no-fault and tort.
 
 ---
 
@@ -206,7 +206,7 @@ $250. Hitting an animal is classified as Other Than Collision (comprehensive), n
 
 <details>
 <summary>Answer</summary>
-It depends on the policy terms for newly acquired vehicles. If they already had physical damage coverage on their existing car, OTC coverage (which covers theft) typically extends automatically to additional vehicles for 14 days (some policies allow 30). They'd be covered — but they still need to notify the insurer promptly. If they had no physical damage coverage on existing vehicles, no coverage would extend.
+It depends on the policy terms for newly acquired vehicles. If they already had physical damage coverage on their existing car, OTC coverage (which covers theft) typically extends automatically to additional vehicles for 14 days (ISO, PP 00 01, 2018) (some policies allow 30). They'd be covered — but they still need to notify the insurer promptly. If they had no physical damage coverage on existing vehicles, no coverage would extend.
 </details>
 
 ---
@@ -217,13 +217,15 @@ It depends on the policy terms for newly acquired vehicles. If they already had 
 
 ## Sources
 
-1. Insurance Information Institute, "Background on: No-Fault Auto Insurance," accessed 2025. [iii.org](https://www.iii.org/article/background-on-no-fault-auto-insurance)
-2. Florida Department of Highway Safety and Motor Vehicles, "Florida Insurance Requirements," accessed 2025. [flhsmv.gov](https://www.flhsmv.gov/insurance/)
-3. California Senate Bill 1107 (2024), increasing minimum auto liability limits to 30/60/15 effective January 1, 2025. [aisinsurance.com](https://www.aisinsurance.com/resources/ca-new-auto-liability-limits-2025.aspx)
-4. New York DMV, "Insurance Requirements," accessed 2025. [dmv.ny.gov](https://dmv.ny.gov/insurance/insurance-requirements)
-5. Texas Department of Insurance, "Auto Insurance Guide," accessed 2025. [tdi.texas.gov](https://www.tdi.texas.gov/pubs/consumer/cb020.html)
-6. Insurance Information Institute, "Background on: Buying Insurance," accessed 2025. [iii.org](https://www.iii.org/article/background-on-buying-insurance)
+1. Insurance Information Institute (III), "Background on: No-Fault Auto Insurance," accessed 2025. [iii.org](https://www.iii.org/article/background-on-no-fault-auto-insurance)
+2. Florida Department of Highway Safety and Motor Vehicles (FL DHSMV), "Florida Insurance Requirements," accessed 2025. [flhsmv.gov](https://www.flhsmv.gov/insurance/)
+3. California Senate Bill 1107 (CA SB 1107, 2024), increasing minimum auto liability limits to 30/60/15 effective January 1, 2025. [aisinsurance.com](https://www.aisinsurance.com/resources/ca-new-auto-liability-limits-2025.aspx)
+4. New York DMV (NY DMV), "Insurance Requirements," accessed 2025. [dmv.ny.gov](https://dmv.ny.gov/insurance/insurance-requirements)
+5. Texas Department of Insurance (TDI), "Auto Insurance Guide," accessed 2025. [tdi.texas.gov](https://www.tdi.texas.gov/pubs/consumer/cb020.html)
+6. Insurance Information Institute (III), "Background on: Buying Insurance," accessed 2025. [iii.org](https://www.iii.org/article/background-on-buying-insurance)
 7. Liberty Mutual, "No-Fault Insurance States — What Are They?" accessed 2025. [libertymutual.com](https://www.libertymutual.com/insurance-resources/auto/what-are-no-fault-insurance-states)
+8. ISO, Personal Auto Policy PP 00 01 (01 2018 edition). Referenced for covered auto definitions, medical payments limits and time frames, newly acquired vehicle notification periods, and vehicle type exclusions.
+9. NAIC, "State Auto Insurance Minimum Coverage Requirements," accessed 2024. [naic.org](https://content.naic.org/cipr-topics/auto-insurance)
 
 ---
 

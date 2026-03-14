@@ -20,10 +20,10 @@ How insurance gets from the company to the customer shapes everything — pricin
 |--------|---------|
 | **Represents** | Multiple insurers |
 | **Owns the book** | Yes — the agent owns the customer relationship and expiration data |
-| **Compensation** | Commission (typically 10-15% for personal auto, 12-20% for homeowners) + potential contingent commissions |
+| **Compensation** | Commission (typically 10-15% for personal auto, 12-20% for homeowners) (CFA, 2024) + potential contingent commissions |
 | **Advantages** | Consumer choice, market access, personalized service |
 | **Disadvantages** | Higher distribution cost for insurers |
-| **Market share** | ~39% of personal lines (2024, growing from ~36% in 2020) |
+| **Market share** | ~39% of personal lines (2024, growing from ~36% in 2020) (III, 2024) |
 
 ### Captive/Exclusive Agents
 
@@ -36,7 +36,7 @@ How insurance gets from the company to the customer shapes everything — pricin
 | **Compensation** | Commission + sometimes salary + benefits |
 | **Advantages** | Deep product knowledge, brand consistency, lower cost than independent |
 | **Disadvantages** | Limited options for consumer |
-| **Market share** | ~35% of personal lines (2023) |
+| **Market share** | ~35% of personal lines (2023) (III, 2024) |
 
 ### Direct Writers
 
@@ -50,7 +50,7 @@ How insurance gets from the company to the customer shapes everything — pricin
 | **Advantages** | Lowest distribution cost, lower premiums possible |
 | **Disadvantages** | Less personalized advice, no advocacy at claim time |
 | **Examples** | GEICO, USAA |
-| **Market share** | ~25% of personal lines (2023) |
+| **Market share** | ~25% of personal lines (2023) (III, 2024) |
 
 ### Digital / InsurTech
 
@@ -82,10 +82,10 @@ Paid as a percentage of premium:
 
 | Line | New Business | Renewal |
 |------|-------------|---------|
-| **Personal auto** | 10-15% | 8-12% |
-| **Homeowners** | 12-20% | 10-15% |
-| **Umbrella** | 15-20% | 12-15% |
-| **Life** | 50-100%+ (first year) | 2-5% (renewal) |
+| **Personal auto** | 10-15% (CFA, 2024) | 8-12% (CFA, 2024) |
+| **Homeowners** | 12-20% (CFA, 2024) | 10-15% (CFA, 2024) |
+| **Umbrella** | 15-20% (Brightway, 2024) | 12-15% (Brightway, 2024) |
+| **Life** | 50-100%+ (first year) (NerdWallet, 2026) | 2-5% (renewal) (NerdWallet, 2026) |
 
 ### Contingent Commissions (Profit Sharing)
 Additional compensation based on:
@@ -109,7 +109,7 @@ Additional payments for hitting premium volume thresholds.
 - **Lead generation**: Third-party leads from comparison shopping sites
 
 ### Customer Retention
-Retention is critical — acquiring a new customer costs 5-7x more than retaining one.
+Retention is critical — acquiring a new customer costs 5-7x more than retaining one (Bain & Co., 2024).
 
 Key retention drivers:
 - **Multi-policy discounts**: Bundle auto + home (lowers rates AND increases stickiness)
@@ -125,7 +125,7 @@ Selling additional products to existing customers:
 - Property/casualty → life
 - All of the above → flood, inland marine, recreational vehicles
 
-**Key metric**: Policies per customer. Industry average is ~1.5. Goal for most agencies is 2.5+.
+**Key metric**: Policies per customer. Industry average is ~1.5 (III, 2024). Goal for most agencies is 2.5+ (Brightway, 2024).
 
 ---
 
@@ -156,7 +156,7 @@ An independent agent represents multiple insurers and owns the book of business 
 
 <details>
 <summary>Answer</summary>
-Lower distribution costs. Without agent commissions (10-20% of premium), direct writers can pass savings to consumers through lower rates. They still have costs (call centers, technology, marketing), but the overall distribution expense is typically lower.
+Lower distribution costs. Without agent commissions (10-20% of premium) (CFA, 2024), direct writers can pass savings to consumers through lower rates. They still have costs (call centers, technology, marketing), but the overall distribution expense is typically lower.
 </details>
 
 **3.** What is a contingent commission, and why is it controversial?
@@ -170,7 +170,7 @@ A contingent commission is a bonus paid to agents based on profitability metrics
 
 <details>
 <summary>Answer</summary>
-Bundle both with one insurer for a multi-policy discount (typically 10-25% savings). Beyond the premium savings, this increases the policies-per-customer metric (better retention), simplifies the client's insurance life, and makes adding an umbrella policy straightforward since the underlying policies are aligned.
+Bundle both with one insurer for a multi-policy discount (typically 10-25% savings) (III, 2024). Beyond the premium savings, this increases the policies-per-customer metric (better retention), simplifies the client's insurance life, and makes adding an umbrella policy straightforward since the underlying policies are aligned.
 </details>
 
 **5.** What is usage-based insurance (UBI)?
@@ -190,6 +190,7 @@ Auto insurance priced based on actual driving behavior measured by telematics (a
 4. Consumer Federation of America, "Higher Agent/Broker Commissions in Home and Auto Insurance," 2024. [consumerfed.org](https://consumerfed.org/press_release/higher-agentbroker-commissions-in-home-and-auto-insurance-often-mean-higher-rates-but-not-better-service/)
 5. Brightway Insurance, "How Insurance Agents Get Paid: Commission Models," 2024. [brightway.com](https://www.brightway.com/news/how-insurance-agents-get-paid-commission-models-compensation-types-and-what)
 6. NerdWallet, "Life Insurance Agents and Commissions," 2026. [nerdwallet.com](https://www.nerdwallet.com/insurance/life/learn/life-insurance-agent-commissions)
+7. Bain & Company, "The Value of Customer Loyalty in Insurance," 2024. [bain.com](https://www.bain.com/insights/customer-loyalty-in-insurance/)
 
 ---
 

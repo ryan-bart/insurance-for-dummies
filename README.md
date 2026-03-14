@@ -1,5 +1,7 @@
 # Insurance for Dummies: Personal Lines
 
+> **Note:** This repository provides a high-level look at personal lines (PL) property & casualty insurance. It is **not comprehensive** and is **not a formal or approved document** — it was built for **personal education only**. The topics covered here overlap with material found in the CIC and CPCU designation curricula, but this guide is not affiliated with, endorsed by, or a substitute for either program.
+
 A plain-language study companion for the personal lines portions of the **CPCU** and **CIC** designation programs. No terminal, no code — just read along on GitHub.
 
 ---
