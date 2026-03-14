@@ -215,4 +215,15 @@ Excess coverage kicks in when the underlying policy's limits are exhausted — i
 
 ---
 
+## Sources
+
+1. Insurance Information Institute, "Umbrella/Excess Liability Insurance," accessed 2025. [iii.org](https://www.iii.org/article/umbrella-liability-insurance)
+2. Progressive, "How Much Does Umbrella Insurance Cost?" accessed 2025. [progressive.com](https://www.progressive.com/answers/umbrella-insurance-cost/)
+3. Allstate, "Cost of Personal Umbrella Insurance," accessed 2025. [allstate.com](https://www.allstate.com/resources/personal-umbrella-policy/umbrella-insurance-cost)
+4. Trusted Choice (IIABA), "Umbrella Insurance Cost: Average Price," accessed 2025. [trustedchoice.com](https://www.trustedchoice.com/umbrella-insurance/coverage-rate-cost/)
+5. Ramsey Solutions, "How Much Does Umbrella Insurance Cost?" accessed 2025. [ramseysolutions.com](https://www.ramseysolutions.com/insurance/umbrella-insurance-cost)
+6. Coverage Cat, "How Much Do Umbrella Insurance Policies Typically Cost Per Year?" accessed 2025. [coveragecat.com](https://www.coveragecat.com/insurance-types/umbrella/typical-umbrella-insurance-costs-per-year)
+
+---
+
 [Next: Special Exposures & Endorsements](04-special-exposures.md)

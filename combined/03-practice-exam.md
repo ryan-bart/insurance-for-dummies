@@ -4,7 +4,7 @@
 
 ---
 
-25 questions covering personal lines topics from both CPCU and CIC. Mix of difficulty levels.
+32 questions covering personal lines topics from both CPCU and CIC, including state regulation and advanced rating mechanics. Mix of difficulty levels.
 
 ---
 
@@ -383,14 +383,119 @@ D. The combined ratio for this line of business is 104%
 
 ---
 
+### Question 26 — State Regulation
+California bans credit-based insurance scores for auto rating. Which of the following is the legal basis for this ban?
+
+A. McCarran-Ferguson Act
+B. Fair Credit Reporting Act
+C. Proposition 103 (1988)
+D. Dodd-Frank Act
+
+<details>
+<summary>Answer</summary>
+**C. Proposition 103 (1988).** This California ballot initiative established strict prior-approval rate regulation, limited auto rating factors to driving record, annual mileage, and years of experience, and effectively banned credit scores for auto insurance. See [State-by-State Regulation Guide](04-state-regulation-guide.md) for details.
+</details>
+
+---
+
+### Question 27 — No-Fault Auto
+A driver in Pennsylvania chose the "limited tort" option. They're rear-ended and suffer soft tissue neck injuries with $8,000 in medical bills but no permanent injury. Can they sue the at-fault driver for pain and suffering?
+
+A. Yes — they can always sue regardless of tort election
+B. Yes — but only for the medical bills, not pain and suffering
+C. No — limited tort restricts lawsuits to cases involving "serious injury"
+D. No — Pennsylvania is a pure no-fault state with no right to sue
+
+<details>
+<summary>Answer</summary>
+**C.** Under Pennsylvania's limited tort option, the injured party can only sue for pain and suffering if the injuries meet the "serious injury" threshold. Soft tissue injuries without permanent limitation typically don't qualify. The driver saved on premium but gave up the right to sue for non-economic damages in this scenario.
+</details>
+
+---
+
+### Question 28 — Rating Mechanics
+An insurer uses ISO advisory loss costs with a loss cost multiplier (LCM) of 1.38. ISO's loss cost for a class is $450. What is the carrier's rate, and what does the 0.38 represent?
+
+A. $450 — the LCM is applied separately
+B. $621 — the 0.38 covers expenses and profit
+C. $621 — the 0.38 covers catastrophe loading only
+D. $171 — you subtract the loss cost from the rate
+
+<details>
+<summary>Answer</summary>
+**B. $621.** $450 × 1.38 = $621. The 0.38 (38%) above 1.00 represents the carrier's provisions for commissions, operating expenses, taxes, and profit — everything beyond the pure loss cost. See [Rating Deep Dive](05-rating-deep-dive.md) for the full premium waterfall.
+</details>
+
+---
+
+### Question 29 — Catastrophe Modeling
+A catastrophe model produces an Average Annual Loss (AAL) of $1,200 for a coastal homeowners risk. What does this mean?
+
+A. The property will suffer exactly $1,200 in cat losses this year
+B. The maximum possible cat loss is $1,200
+C. The expected cat loss per year, averaged across thousands of simulated events, is $1,200
+D. The insurer's deductible for catastrophe claims is $1,200
+
+<details>
+<summary>Answer</summary>
+**C.** The AAL represents the long-run average annual catastrophe loss — most years the loss is $0, but occasional catastrophic years bring very large losses. The AAL is added directly to non-cat loss costs as a "cat load" when building the premium. This is why coastal premiums are high even in years without hurricanes.
+</details>
+
+---
+
+### Question 30 — Telematics
+A customer enrolls in a pay-per-mile (PPM) auto insurance program and drives 6,000 miles per year. How is their premium calculated?
+
+A. Standard premium minus a mileage discount
+B. A fixed monthly base rate plus a per-mile charge
+C. Standard premium with a telematics surcharge
+D. Per-mile charge only, with no base rate
+
+<details>
+<summary>Answer</summary>
+**B.** PPM programs charge a fixed monthly base rate (covering liability minimums and fixed costs) plus a per-mile charge — typically $0.05–$0.14 per mile. A low-mileage driver at 6,000 miles/year benefits most. Most programs cap daily mileage charges so occasional long trips don't spike the bill.
+</details>
+
+---
+
+### Question 31 — Residual Markets
+A Texas coastal homeowner can't find wind coverage in the voluntary market. Where do they turn?
+
+A. NFIP
+B. CEA
+C. TWIA
+D. Citizens Property Insurance
+
+<details>
+<summary>Answer</summary>
+**C. TWIA (Texas Windstorm Insurance Association).** TWIA provides wind and hail coverage for 14 Texas coastal counties where the voluntary market has retreated. CEA is California earthquake. Citizens is Florida's residual market. NFIP is federal flood. See [State-by-State Regulation Guide](04-state-regulation-guide.md) for details.
+</details>
+
+---
+
+### Question 32 — State Coverage Mandates
+Which state is unique in requiring Supplementary Uninsured/Underinsured Motorist (SUM) coverage?
+
+A. California
+B. Florida
+C. New York
+D. Michigan
+
+<details>
+<summary>Answer</summary>
+**C. New York.** New York is the only state that mandates SUM coverage. Insurers must offer SUM up to $25,000/$50,000, with options up to $250,000/$500,000. Other states require UM, UIM, or both, but none use New York's SUM structure.
+</details>
+
+---
+
 ## Scoring Guide
 
 | Score | Level | Recommendation |
 |-------|-------|---------------|
-| 22-25 | Excellent | You're ready for exam day |
-| 18-21 | Good | Review the topics you missed |
-| 14-17 | Fair | Focus study on weak areas — use the individual chapter files |
-| Below 14 | Needs work | Start from the beginning and work through each file in order |
+| 28-32 | Excellent | You're ready for exam day |
+| 22-27 | Good | Review the topics you missed |
+| 16-21 | Fair | Focus study on weak areas — use the individual chapter files |
+| Below 16 | Needs work | Start from the beginning and work through each file in order |
 
 ---
 

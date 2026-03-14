@@ -124,7 +124,7 @@ This is one of the most controversial underwriting tools:
 **The debate**:
 - **Proponents**: Strong statistical predictor of claims; allows more accurate pricing
 - **Critics**: Disproportionately affects low-income and minority communities; correlation ≠ causation
-- **Regulation**: Some states restrict or ban its use (California, Hawaii, Massachusetts, Maryland — partial bans or restrictions)
+- **Regulation**: Some states restrict or ban its use (California, Hawaii, Massachusetts, Maryland, and Michigan — full bans or significant restrictions depending on line of business)
 
 ---
 
@@ -178,6 +178,19 @@ Multiple red flags: young driver (highest accident rate age group), sports car (
 <summary>Answer</summary>
 CLUE (Comprehensive Loss Underwriting Exchange) is a database containing 7 years of claims history for both homeowners and auto. It follows the person AND the property. Underwriters use it to identify frequent claimants and properties with loss histories. Even if you switch insurers, your claims history comes with you.
 </details>
+
+---
+
+## Sources
+
+1. LexisNexis Risk Solutions, "C.L.U.E. Auto and Property Reports." [risk.lexisnexis.com](https://risk.lexisnexis.com/products/clue-auto)
+2. Consumer Financial Protection Bureau, "LexisNexis C.L.U.E. & Telematics OnDemand." [consumerfinance.gov](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/comprehensive-loss-underwriting-exchange/)
+3. Experian, "Which States Prohibit or Restrict the Use of Credit-Based Insurance Scores?" 2025. [experian.com](https://www.experian.com/blogs/ask-experian/which-states-prohibit-or-restrict-the-use-of-credit-based-insurance-scores/)
+4. NAIC, "Credit-Based Insurance Scores." [naic.org](https://content.naic.org/insurance-topics/credit-based-insurance-scores)
+5. Federal Trade Commission, "Fair Credit Reporting Act (FCRA)." [ftc.gov](https://www.ftc.gov/legal-library/browse/statutes/fair-credit-reporting-act)
+6. Michigan Legislature, MCL Section 500.2153 (credit score ban in auto insurance reform, 2020). [legislature.mi.gov](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-500-2153)
+7. ISO / Verisk, "Protection Class Rating." [verisk.com](https://www.verisk.com/)
+8. CPCU Society / The Institutes, *CPCU 556: Personal Risk Management and Insurance*, course materials.
 
 ---
 

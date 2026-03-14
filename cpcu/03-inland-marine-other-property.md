@@ -174,4 +174,16 @@ No depreciation debate at claim time. The value was agreed upfront, so a total l
 
 ---
 
+## Sources
+
+1. FEMA, "National Flood Insurance Program Summary of Coverage," 2025. [fema.gov](https://www.fema.gov/flood-insurance)
+2. FEMA / FloodSmart, "Types of Coverage — NFIP," 2025. [agents.floodsmart.gov](https://agents.floodsmart.gov/topics/selling-flood-insurance/coverage)
+3. California Earthquake Authority (CEA), "Homeowners Coverages and Deductibles," 2025. [earthquakeauthority.com](https://www.earthquakeauthority.com/california-earthquake-insurance-policies/homeowners/coverages-and-deductibles)
+4. Insurance Information Institute (III), "Facts + Statistics: Flood Insurance," 2025. [iii.org](https://www.iii.org/fact-statistic/facts-statistics-flood-insurance)
+5. ISO, "Homeowners 3 — Special Form HO 00 03 (Coverage C sub-limits and watercraft provisions)," 2011 edition. [iii.org (sample form)](https://www.iii.org/sites/default/files/docs/pdf/HO3_sample.pdf)
+6. IRMI (International Risk Management Institute), "Personal Articles Floater" and "Inland Marine Coverage," 2025. [irmi.com](https://www.irmi.com)
+7. Congressional Research Service, "Introduction to the National Flood Insurance Program (NFIP)," 2025. [congress.gov](https://www.congress.gov/crs-product/IF10988)
+
+---
+
 [Next: Life Insurance Fundamentals](04-life-insurance.md)

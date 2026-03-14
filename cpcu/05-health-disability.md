@@ -118,7 +118,7 @@ Or a **cognitive impairment** (Alzheimer's, dementia)
 ### Why It Matters
 - Medicare does NOT cover long-term custodial care
 - Medicaid does, but only after you've spent down nearly all your assets
-- Average nursing home cost: $90,000–$110,000+ per year
+- Average nursing home cost: $110,000–$130,000+ per year (semi-private room median was $111,325 in 2024; private room $127,750)
 - LTC insurance protects your assets and gives you choices about your care
 
 ---
@@ -132,7 +132,7 @@ Medicare is federal health insurance for people 65+ (and some younger disabled i
 | Part | What It Covers | Funding | Cost to Beneficiary |
 |------|---------------|---------|-------------------|
 | **Part A** | Hospital/inpatient, skilled nursing (limited), hospice, some home health | Payroll taxes | Usually premium-free if you paid Medicare taxes 10+ years |
-| **Part B** | Doctor visits, outpatient, preventive, durable medical equipment | General revenue + premiums | Standard monthly premium (~$175/month, income-adjusted) |
+| **Part B** | Doctor visits, outpatient, preventive, durable medical equipment | General revenue + premiums | Standard monthly premium ($202.90/month in 2026, income-adjusted) |
 | **Part C** (Medicare Advantage) | Combines A + B through private insurers, often includes drug coverage | Private plan premiums | Varies by plan |
 | **Part D** | Prescription drug coverage | Premiums + general revenue | Monthly premium varies by plan |
 
@@ -190,6 +190,20 @@ No. Medicare does not cover long-term custodial care. It covers skilled nursing 
 <summary>Answer</summary>
 Part C (Medicare Advantage) replaces original Medicare — you get A and B benefits through a private insurer, often with extras (dental, vision, drugs). Medigap supplements original Medicare — it fills the cost-sharing gaps (copays, coinsurance) but you keep original Medicare. You can't have both simultaneously.
 </details>
+
+---
+
+## Sources
+
+1. CMS, "2026 Medicare Parts A & B Premiums and Deductibles," 2025. [cms.gov](https://www.cms.gov/newsroom/fact-sheets/2026-medicare-parts-b-premiums-deductibles)
+2. Medicare.gov, "What Medicare Covers," 2025. [medicare.gov](https://www.medicare.gov/what-medicare-covers)
+3. Healthcare.gov, "The Marketplace in Your State," 2025. [healthcare.gov](https://www.healthcare.gov/marketplace-in-your-state/)
+4. Genworth/CareScout, "Cost of Care Survey," 2024. [carescout.com](https://www.carescout.com/cost-of-care)
+5. ACL (Administration for Community Living), "Receiving Long-Term Care Insurance Benefits." [acl.gov](https://acl.gov/ltc/costs-and-who-pays/what-is-long-term-care-insurance/receiving-long-term-care-insurance-benefits)
+6. NAIC, "Long-Term Care Insurance," CIPR Topics, 2024. [content.naic.org](https://content.naic.org/cipr-topics/long-term-care-insurance)
+7. IRS, "Publication 502: Medical and Dental Expenses," 2025. [irs.gov](https://www.irs.gov/publications/p502)
+8. Senior65, "2020 Medigap Changes: No New Plans C and F" (MACRA provisions). [senior65.com](https://www.senior65.com/medicare/article/medigap-changes-for-2020-no-new-plans-c-and-f)
+9. III (Insurance Information Institute), "Facts + Statistics: Disability Insurance," 2024. [iii.org](https://www.iii.org/fact-statistic/facts-statistics-disability-insurance)
 
 ---
 

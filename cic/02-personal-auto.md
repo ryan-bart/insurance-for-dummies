@@ -146,8 +146,8 @@ Two coverages:
 
 | State | Minimum BI/PD |
 |-------|--------------|
-| California | 15/30/5 |
-| Florida | 10/20/10 (PIP required, BI not required) |
+| California | 30/60/15 (effective Jan 2025; was 15/30/5) |
+| Florida | PIP $10K + PDL $10K (no BI required; changing to 25/50/10 in July 2026) |
 | New York | 25/50/10 |
 | Texas | 30/60/25 |
 | Alaska | 50/100/25 |
@@ -208,6 +208,22 @@ $250. Hitting an animal is classified as Other Than Collision (comprehensive), n
 <summary>Answer</summary>
 It depends on the policy terms for newly acquired vehicles. If they already had physical damage coverage on their existing car, OTC coverage (which covers theft) typically extends automatically to additional vehicles for 14 days (some policies allow 30). They'd be covered — but they still need to notify the insurer promptly. If they had no physical damage coverage on existing vehicles, no coverage would extend.
 </details>
+
+---
+
+**Want the full state-by-state picture?** See [State-by-State Regulation Guide](../combined/04-state-regulation-guide.md) for complete 50-state minimum limits tables, no-fault state details, credit score ban lists, and coverage mandates.
+
+---
+
+## Sources
+
+1. Insurance Information Institute, "Background on: No-Fault Auto Insurance," accessed 2025. [iii.org](https://www.iii.org/article/background-on-no-fault-auto-insurance)
+2. Florida Department of Highway Safety and Motor Vehicles, "Florida Insurance Requirements," accessed 2025. [flhsmv.gov](https://www.flhsmv.gov/insurance/)
+3. California Senate Bill 1107 (2024), increasing minimum auto liability limits to 30/60/15 effective January 1, 2025. [aisinsurance.com](https://www.aisinsurance.com/resources/ca-new-auto-liability-limits-2025.aspx)
+4. New York DMV, "Insurance Requirements," accessed 2025. [dmv.ny.gov](https://dmv.ny.gov/insurance/insurance-requirements)
+5. Texas Department of Insurance, "Auto Insurance Guide," accessed 2025. [tdi.texas.gov](https://www.tdi.texas.gov/pubs/consumer/cb020.html)
+6. Insurance Information Institute, "Background on: Buying Insurance," accessed 2025. [iii.org](https://www.iii.org/article/background-on-buying-insurance)
+7. Liberty Mutual, "No-Fault Insurance States — What Are They?" accessed 2025. [libertymutual.com](https://www.libertymutual.com/insurance-resources/auto/what-are-no-fault-insurance-states)
 
 ---
 

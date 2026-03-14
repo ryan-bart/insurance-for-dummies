@@ -43,7 +43,7 @@ The umbrella sits on top of your other liability policies:
 
 1. The **underlying policy** (HO or auto) pays first, up to its limit
 2. If the claim exceeds the underlying limit, the **umbrella** picks up the rest, up to its limit
-3. If the claim involves something the underlying doesn't cover but the umbrella does, the umbrella pays after a **self-insured retention (SIR)** — typically $10,000
+3. If the claim involves something the underlying doesn't cover but the umbrella does, the umbrella pays after a **self-insured retention (SIR)** — commonly $250 to $10,000 on personal policies
 
 ### Drop-Down Coverage
 
@@ -133,7 +133,7 @@ Premiums vary based on: number of vehicles, properties, drivers, driving records
 
 The SIR is the deductible that applies when the umbrella provides drop-down coverage (no underlying policy responds):
 
-- Typically **$10,000** (can range from $250 to $25,000+)
+- Ranges from **$250 to $10,000** on most personal policies (commercial umbrellas may be $10,000–$25,000+)
 - Only applies to claims where the umbrella is broader than underlying
 - Does NOT apply when the claim is covered by underlying policies — in that case, the underlying policy is the "deductible"
 
@@ -175,6 +175,18 @@ Approximately $300–$550 per year. Personal umbrellas are one of the best value
 <summary>Answer</summary>
 Drop-down means the umbrella provides coverage for claims that the underlying policy doesn't cover at all (after the SIR). Regular excess just extends the dollar limits of the underlying policy. Drop-down is what makes a true umbrella broader than a simple excess policy.
 </details>
+
+---
+
+## Sources
+
+1. III (Insurance Information Institute), "Facts + Statistics: Umbrella/Excess Insurance," 2024. [iii.org](https://www.iii.org/fact-statistic/facts-statistics-umbrella-excess-insurance)
+2. IRMI (International Risk Management Institute), "Personal Umbrella Insurance 101." [irmi.com](https://www.irmi.com/articles/expert-commentary/personal-umbrella-insurance-101)
+3. IRMI, "Self-Insured Retention (SIR)," Insurance Glossary. [irmi.com](https://www.irmi.com/term/insurance-definitions/self-insured-retention-(sir))
+4. Progressive, "How Much Does Umbrella Insurance Cost?" 2025. [progressive.com](https://www.progressive.com/answers/umbrella-insurance-cost/)
+5. Allstate, "Cost of Personal Umbrella Insurance." [allstate.com](https://www.allstate.com/resources/personal-umbrella-policy/umbrella-insurance-cost)
+6. NAIC, "Personal Liability Umbrella Policies," Consumer Resources, 2024. [content.naic.org](https://content.naic.org/consumer)
+7. RLI Corp, "Personal Umbrella for Agents & Brokers." [rlicorp.com](https://www.rlicorp.com/specialty-insurance/personal-lines/personal-umbrella)
 
 ---
 

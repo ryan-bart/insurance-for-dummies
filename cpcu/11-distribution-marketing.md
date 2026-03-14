@@ -20,10 +20,10 @@ How insurance gets from the company to the customer shapes everything — pricin
 |--------|---------|
 | **Represents** | Multiple insurers |
 | **Owns the book** | Yes — the agent owns the customer relationship and expiration data |
-| **Compensation** | Commission (typically 10-15% for personal auto, 15-20% for homeowners) + potential contingent commissions |
+| **Compensation** | Commission (typically 10-15% for personal auto, 12-20% for homeowners) + potential contingent commissions |
 | **Advantages** | Consumer choice, market access, personalized service |
 | **Disadvantages** | Higher distribution cost for insurers |
-| **Market share** | ~35-40% of personal lines |
+| **Market share** | ~39% of personal lines (2024, growing from ~36% in 2020) |
 
 ### Captive/Exclusive Agents
 
@@ -36,7 +36,7 @@ How insurance gets from the company to the customer shapes everything — pricin
 | **Compensation** | Commission + sometimes salary + benefits |
 | **Advantages** | Deep product knowledge, brand consistency, lower cost than independent |
 | **Disadvantages** | Limited options for consumer |
-| **Market share** | ~30-35% of personal lines |
+| **Market share** | ~35% of personal lines (2023) |
 
 ### Direct Writers
 
@@ -50,7 +50,7 @@ How insurance gets from the company to the customer shapes everything — pricin
 | **Advantages** | Lowest distribution cost, lower premiums possible |
 | **Disadvantages** | Less personalized advice, no advocacy at claim time |
 | **Examples** | GEICO, USAA |
-| **Market share** | Growing — now ~25-30% of personal auto |
+| **Market share** | ~25% of personal lines (2023) |
 
 ### Digital / InsurTech
 
@@ -83,7 +83,7 @@ Paid as a percentage of premium:
 | Line | New Business | Renewal |
 |------|-------------|---------|
 | **Personal auto** | 10-15% | 8-12% |
-| **Homeowners** | 15-20% | 12-15% |
+| **Homeowners** | 12-20% | 10-15% |
 | **Umbrella** | 15-20% | 12-15% |
 | **Life** | 50-100%+ (first year) | 2-5% (renewal) |
 
@@ -179,6 +179,17 @@ Bundle both with one insurer for a multi-policy discount (typically 10-25% savin
 <summary>Answer</summary>
 Auto insurance priced based on actual driving behavior measured by telematics (a device or smartphone app). It tracks mileage, speed, braking, time of day, and other driving patterns. Safe drivers pay less. Examples: Progressive Snapshot, State Farm Drive Safe & Save, Allstate Drivewise.
 </details>
+
+---
+
+## Sources
+
+1. Independent Insurance Agents & Brokers of America (Big "I"), "2025 Market Share Report," 2025. [independentagent.com](https://www.independentagent.com/news/big-i-releases-2025-market-share-report/)
+2. Insurance Information Institute, "Facts + Statistics: Distribution Channels," 2024. [iii.org](https://www.iii.org/fact-statistic/facts-statistics-distribution-channels)
+3. Insurance Journal, "Independent Agencies' Market Share Shows Small Decline," 2025. [insurancejournal.com](https://www.insurancejournal.com/news/national/2025/07/23/832819.htm)
+4. Consumer Federation of America, "Higher Agent/Broker Commissions in Home and Auto Insurance," 2024. [consumerfed.org](https://consumerfed.org/press_release/higher-agentbroker-commissions-in-home-and-auto-insurance-often-mean-higher-rates-but-not-better-service/)
+5. Brightway Insurance, "How Insurance Agents Get Paid: Commission Models," 2024. [brightway.com](https://www.brightway.com/news/how-insurance-agents-get-paid-commission-models-compensation-types-and-what)
+6. NerdWallet, "Life Insurance Agents and Commissions," 2026. [nerdwallet.com](https://www.nerdwallet.com/insurance/life/learn/life-insurance-agent-commissions)
 
 ---
 

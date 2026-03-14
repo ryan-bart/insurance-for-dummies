@@ -236,4 +236,15 @@ E&O protection. If a client suffers an uninsured loss and claims the agent never
 
 ---
 
+## Sources
+
+1. FAA, "How to Register Your Drone," accessed 2025. [faa.gov](https://www.faa.gov/uas/getting_started/register_drone)
+2. FAA, "Recreational Flyers & Community-Based Organizations," accessed 2025. [faa.gov](https://www.faa.gov/uas/recreational_flyers)
+3. EnergySage, "Solar Panel Cost in 2025," 2025. [energysage.com](https://www.energysage.com/local-data/solar-panel-cost/)
+4. Insurance Information Institute, "Homeowners 3 — Special Form (HO 00 03)," sample policy. [iii.org](https://www.iii.org/sites/default/files/docs/pdf/HO3_sample.pdf)
+5. NerdWallet, "What Is Water Backup Coverage?" 2025. [nerdwallet.com](https://www.nerdwallet.com/article/insurance/water-backup-coverage)
+6. Insurance Information Institute, "Identity Theft and Cybercrime," accessed 2025. [iii.org](https://www.iii.org/article/identity-theft-and-cybercrime)
+
+---
+
 [Back to README](../README.md)

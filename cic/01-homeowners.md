@@ -201,4 +201,15 @@ Named peril. The HO-3 is a hybrid: the dwelling (Coverage A and B) is open peril
 
 ---
 
+## Sources
+
+1. Insurance Services Office (ISO), "Homeowners 3 — Special Form (HO 00 03)," sample policy form. [iii.org](https://www.iii.org/sites/default/files/docs/pdf/HO3_sample.pdf)
+2. Insurance Information Institute, "Homeowners Insurance," accessed 2025. [iii.org](https://www.iii.org/article/homeowners-insurance)
+3. Anderson Insurance Group, "What Are the Limitations on Personal Property in an HO3 Policy?" accessed 2025. [anderson.insure](https://www.anderson.insure/what-are-the-personal-property-limitations-of-an-ho3-policy/)
+4. NerdWallet, "What Is Water Backup Coverage for Homeowners and Renters?" 2025. [nerdwallet.com](https://www.nerdwallet.com/article/insurance/water-backup-coverage)
+5. Progressive, "Does Home Insurance Include Water Backup Coverage?" accessed 2025. [progressive.com](https://www.progressive.com/answers/home-insurance-water-backup-coverage/)
+6. Newfront Insurance, "Protecting Your Valuables — Understanding Sublimits and Personal Item Floaters," accessed 2025. [newfront.com](https://www.newfront.com/blog/homeowners-policies-and-sublimits)
+
+---
+
 [Next: Personal Auto Policy](02-personal-auto.md)

@@ -28,14 +28,21 @@
 - Done — 01-cross-reference.md
 - Done — 02-glossary.md
 - Done — 03-practice-exam.md
+- Done — 04-state-regulation-guide.md
+- Done — 05-rating-deep-dive.md
 
 ## V1 Complete
 All 19 content files written. README and progress tracker in place.
 
-## Potential V2 Enhancements
-- Add more practice questions per chapter
+## V2 Expansion
+- Done — State-by-state regulation guide (50-state tables, no-fault details, unique state environments)
+- Done — Rating deep dive (loss cost waterfall, cat modeling, telematics, CBIS)
+- Done — Cross-links between new and existing files
+- Done — Glossary expansion with new terms
+- Done — Additional practice exam questions on state regulation and advanced rating
+- Done — Comprehensive accuracy review with sources added to all files
+
+## Potential V3 Enhancements
 - Add case studies / client scenario walkthroughs
 - Add study schedule / timeline recommendations
-- Add links to official study resources
-- Expand glossary with more terms
 - Add diagrams (coverage stacking, policy structure)

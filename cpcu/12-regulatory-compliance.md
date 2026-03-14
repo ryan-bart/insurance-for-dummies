@@ -132,7 +132,7 @@ What happens when an insurer goes insolvent (can't pay claims)?
 - Each state has a guaranty fund (or association)
 - Funded by assessments on all licensed insurers in the state
 - When an insurer is declared insolvent, the guaranty fund steps in to pay claims
-- **Limits apply**: Typically $300,000–$500,000 per claim (varies by state)
+- **Limits apply**: Most states cap at $300,000 per claim; some allow up to $500,000 (varies by state and line)
 - Only covers claims from residents of the state
 - Only applies to admitted (licensed) insurers
 
@@ -151,7 +151,7 @@ For risks that can't get coverage in the standard (voluntary) market:
 ### FAIR Plans (Fair Access to Insurance Requirements)
 - Created after urban riots in the 1960s
 - Provide basic property insurance for properties that can't get coverage elsewhere
-- Available in about 30 states
+- Available in 35 states plus D.C. (as of 2025)
 - Coverage is often more limited and more expensive than the voluntary market
 - Designed as a last resort, not a competitive alternative
 
@@ -200,7 +200,7 @@ Provide an adverse action notice informing the applicant that credit information
 
 <details>
 <summary>Answer</summary>
-The state guaranty fund steps in. It pays covered claims up to state limits (typically $300K-$500K per claim). The insolvent insurer's assets are liquidated first, and the guaranty fund covers the remaining gap. The guaranty fund recovers its payouts through assessments on all other licensed insurers in the state.
+The state guaranty fund steps in. It pays covered claims up to state limits (most states cap at $300K per claim; some up to $500K). The insolvent insurer's assets are liquidated first, and the guaranty fund covers the remaining gap. The guaranty fund recovers its payouts through assessments on all other licensed insurers in the state.
 </details>
 
 **5.** A driver with two DUIs can't find auto insurance in the voluntary market. What's their option?
@@ -209,6 +209,22 @@ The state guaranty fund steps in. It pays covered claims up to state limits (typ
 <summary>Answer</summary>
 The assigned risk plan (also called the residual market or automobile insurance plan). The state assigns them to an insurer. They'll pay much higher premiums and likely get only minimum required coverage, but they can get insured and meet financial responsibility requirements.
 </details>
+
+---
+
+**Want the state-by-state details?** See [State-by-State Regulation Guide](../combined/04-state-regulation-guide.md) for 50-state rate regulation tables, no-fault comparison charts, auto minimum limits, unique state environments (CA, FL, TX, MI, LA, MA, NY), and residual market specifics.
+
+---
+
+## Sources
+
+1. NAIC, "McCarran-Ferguson Act," accessed 2025. [content.naic.org](https://content.naic.org/insurance-topics/mccarran-ferguson-act)
+2. NAIC, "Fair Access to Insurance Requirements Plans," accessed 2025. [content.naic.org](https://content.naic.org/insurance-topics/fair-access-to-insurance-requirements-plans)
+3. NAIC, "Guaranty Associations & Funds," accessed 2025. [content.naic.org](https://content.naic.org/insurance-topics/guaranty-associations-and-funds)
+4. NAIC, "Property and Casualty Insurance Guaranty Association Model Act (#540)." [content.naic.org](https://content.naic.org/sites/default/files/inline-files/MDL-540.pdf)
+5. Insurance Information Institute, "McCarran-Ferguson Act," accessed 2025. [iii.org](https://www.iii.org/publications/insurance-handbook/regulatory-and-financial-environment/mccarran-ferguson-act)
+6. Insurance Information Institute, "Insurance Provided by FAIR Plans by State," 2024. [iii.org](https://www.iii.org/insurance-provided-by-fair-plans-by-state-fiscal-year-2024-1)
+7. Federal Reserve Bank of Chicago, "Insurance on Insurers: How State Insurance Guaranty Funds Protect Policyholders," 2024. [chicagofed.org](https://www.chicagofed.org/publications/economic-perspectives/2024/3)
 
 ---
 

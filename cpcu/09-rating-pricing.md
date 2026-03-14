@@ -34,7 +34,7 @@ An exposure unit varies by line:
 - **Auto physical damage**: Per car-year
 
 ### Expense Loading
-Everything besides claims: commissions (20-25% for independent agents), operating costs, taxes, and profit margin. Typically adds 30-40% on top of loss costs.
+Everything besides claims: commissions (typically 10–15% for independent agents on personal lines), operating costs, taxes, and profit margin. Typically adds 30-40% on top of loss costs.
 
 ---
 
@@ -113,7 +113,7 @@ The most important profitability metric in insurance:
 - **Combined ratio > 100%** = underwriting loss
 - **Combined ratio = 105%** means the insurer is losing 5 cents on every premium dollar from underwriting (investment income may still make overall profit)
 
-**Industry context**: Personal auto combined ratios have been running 100-110% in recent years. Homeowners is more volatile due to catastrophe exposure.
+**Industry context**: Personal auto combined ratios ran 100–112% from 2020–2023 due to post-pandemic inflation, but improved sharply to ~95% in 2024 after successive rate increases. Homeowners is more volatile due to catastrophe exposure.
 
 ---
 
@@ -138,9 +138,9 @@ Insurance rates are regulated at the state level. The three main approaches:
 - Even less regulatory friction
 
 ### Open Competition (No File)
-- No filing requirement
+- No filing requirement — or informational filings only
 - Market forces determine rates
-- Illinois uses this for some lines
+- Illinois uses this approach for property/casualty lines (the only state with no P/C rating law)
 - Least common approach
 
 ### Rate Standards
@@ -206,6 +206,22 @@ Catastrophe loading. Even in a year with no hurricanes, the premium includes the
 <summary>Answer</summary>
 No. With only 200 policies, their own experience isn't statistically credible — a couple of large claims could wildly skew the data. They'd need to blend their experience with industry data, giving more weight to industry data (low credibility for their own). This is the concept of actuarial credibility.
 </details>
+
+---
+
+**Want to go deeper?** See [Rating Deep Dive: From Loss Costs to Final Premium](../combined/05-rating-deep-dive.md) for the full ISO loss cost waterfall, catastrophe modeling, telematics, credit-based insurance scoring mechanics, and real-world rate filing examples.
+
+---
+
+## Sources
+
+1. Insurance Information Institute (III), "Personal Auto 2024 Underwriting Results Best Since Pandemic," 2025. [iii.org](https://insuranceindustryblog.iii.org/personal-auto-2024-underwriting-results-best-since-pandemic/)
+2. Verisk / ISO, "Loss Costs and Rating." [verisk.com](https://www.verisk.com/)
+3. NAIC, "State Insurance Regulation," rate regulation overview. [naic.org](https://content.naic.org/)
+4. Insurance Business America, "Illinois Nixes Insurance Rate Bill Amid Affordability, Competition Concerns," 2025. [insurancebusinessmag.com](https://www.insurancebusinessmag.com/us/news/regulatory/illinois-nixes-insurance-rate-bill-amid-affordability-competition-concerns-555510.aspx)
+5. A.M. Best, "U.S. Personal Auto Insurance Segment Sustains Underwriting Turnaround Into 2025." [ambest.com](https://news.ambest.com/pr/PressContent.aspx?refnum=36480&altsrc=2)
+6. Brightway Insurance, "How Insurance Agents Get Paid: Commission Models, Compensation Types," 2024. [brightway.com](https://www.brightway.com/news/how-insurance-agents-get-paid-commission-models-compensation-types-and-what)
+7. CPCU Society / The Institutes, *CPCU 556: Personal Risk Management and Insurance*, course materials.
 
 ---
 

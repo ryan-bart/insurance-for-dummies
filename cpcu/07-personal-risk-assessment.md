@@ -42,7 +42,7 @@ Costs of medical care and long-term care.
 - **Acute illness or injury**: Hospital, surgery, emergency
 - **Chronic conditions**: Ongoing treatment and medication
 - **Long-term care**: Custodial care needs in old age
-- **Key consideration**: Medical costs are the #1 cause of personal bankruptcy in the U.S.
+- **Key consideration**: Medical costs are a leading contributor to personal bankruptcy in the U.S. — research estimates roughly two-thirds of bankruptcy filers cite medical issues as a key factor
 
 ---
 
@@ -121,7 +121,7 @@ Life changes. Review annually or when:
 | Gap | Why It Happens | Solution |
 |-----|---------------|----------|
 | Underinsured dwelling | Haven't updated since purchase/renovation | Annual replacement cost review |
-| No flood coverage | "I'm not in a flood zone" | NFIP or private flood (25% of flood claims are outside high-risk zones) |
+| No flood coverage | "I'm not in a flood zone" | NFIP or private flood (over 25% of NFIP flood claims come from outside high-risk zones) |
 | Jewelry/valuables over sub-limits | Don't realize sub-limits exist | Scheduled personal property |
 | Inadequate liability limits | $100K seems like a lot until it's not | Umbrella policy |
 | No disability insurance | "It won't happen to me" | Individual DI policy |
@@ -143,7 +143,7 @@ At minimum, enough to cover the mortgage ($400K) plus several years of income re
 
 <details>
 <summary>Answer</summary>
-About 25% of all flood claims come from outside high-risk zones (Zones A and V). Zone X means lower risk, not no risk. NFIP premiums in Zone X are also much lower, making it an affordable precaution. Also, it only takes 1 inch of water to cause $25,000+ in damage.
+FEMA data shows that over 25% of NFIP flood claims come from outside high-risk zones (Zones A and V) — recent 10-year data puts it closer to one-third. Zone X means lower risk, not no risk. NFIP premiums in Zone X are also much lower, making it an affordable precaution. Also, it only takes 1 inch of water to cause $25,000+ in damage.
 </details>
 
 **3.** Which risk management technique is insurance?
@@ -166,6 +166,18 @@ The liability limit is far too low. Their net worth alone is $700K+, plus future
 <summary>Answer</summary>
 Annually at minimum, plus any time there's a significant life change: marriage/divorce, birth of a child, home purchase/sale, major income change, new business/side hustle, acquiring high-value assets, or reaching retirement age.
 </details>
+
+---
+
+## Sources
+
+1. FEMA / FloodSmart, "What is My Flood Risk," 2024. [floodsmart.gov](https://www.floodsmart.gov/flood-zones-and-maps/what-is-my-flood-risk)
+2. Himmelstein et al., "Medical Bankruptcy: Still Common Despite the Affordable Care Act," *American Journal of Public Health*, 2019. [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6366487/)
+3. American Bankruptcy Institute, "Health Care Costs Number One Cause of Bankruptcy for American Families." [abi.org](https://www.abi.org/feed-item/health-care-costs-number-one-cause-of-bankruptcy-for-american-families)
+4. Insurance Information Institute (III), "Personal Risk Management." [iii.org](https://www.iii.org/)
+5. CPCU Society / The Institutes, *CPCU 556: Personal Risk Management and Insurance*, course materials.
+6. FEMA, "Floods Can Happen Anywhere — Be Prepared with Flood Insurance," 2024. [fema.gov](https://www.fema.gov/blog/floods-can-happen-anywhere-be-prepared-flood-insurance)
+7. Peterson-KFF Health System Tracker, "The Burden of Medical Debt in the United States," 2024. [healthsystemtracker.org](https://www.healthsystemtracker.org/brief/the-burden-of-medical-debt-in-the-united-states/)
 
 ---
 

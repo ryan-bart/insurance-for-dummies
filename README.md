@@ -62,6 +62,8 @@ The CIC program has 7 institutes (pass 5 of 7). The Personal Lines institute is 
 | CPCU vs CIC: What Overlaps, What Doesn't | [combined/01-cross-reference.md](combined/01-cross-reference.md) |
 | Glossary of Key Terms | [combined/02-glossary.md](combined/02-glossary.md) |
 | Master Practice Exam | [combined/03-practice-exam.md](combined/03-practice-exam.md) |
+| State-by-State Regulation Guide | [combined/04-state-regulation-guide.md](combined/04-state-regulation-guide.md) |
+| Rating Deep Dive: From Loss Costs to Final Premium | [combined/05-rating-deep-dive.md](combined/05-rating-deep-dive.md) |
 
 ---
 

@@ -245,4 +245,16 @@ Likely not. Business pursuits are excluded under the standard HO policy. The hom
 
 ---
 
+## Sources
+
+1. Insurance Services Office (ISO), "Homeowners 3 — Special Form HO 00 03," 2011 edition. [iii.org (sample form)](https://www.iii.org/sites/default/files/docs/pdf/HO3_sample.pdf)
+2. Verisk, "Property Characteristics That Influence Replacement Cost Estimates," 2023. [verisk.com](https://www.verisk.com/blog/property-characteristics-that-influence-replacement-cost-estimates/)
+3. Verisk, "360Value Personal — Replacement Cost Estimation," 2025. [verisk.com](https://www.verisk.com/products/360value-personal/)
+4. Insurance Information Institute (III), "Homeowners Insurance Basics," 2025. [iii.org](https://www.iii.org/article/homeowners-insurance-basics)
+5. IRMI (International Risk Management Institute), "Homeowners Policy Special Form 3 (HO-3)," 2025. [irmi.com](https://www.irmi.com/term/insurance-definitions/homeowners-policy-special-form-3-(ho-3))
+6. Texas Department of Insurance, "Home Insurance Guide," 2025. [tdi.texas.gov](https://www.tdi.texas.gov/pubs/consumer/cb025.html)
+7. NAIC, "Dwelling Fire and Homeowners Owner-Occupied Data Call Definitions," 2025. [content.naic.org](https://content.naic.org)
+
+---
+
 [Next: Personal Auto Insurance](02-personal-auto.md)

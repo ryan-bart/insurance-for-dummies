@@ -104,6 +104,28 @@
 
 **Waiver of Subrogation**: An agreement where the insured gives up the right to recover from a responsible third party. This also eliminates the insurer's subrogation rights.
 
+**Advisory Loss Cost**: The expected cost of claims per exposure unit, published by ISO/Verisk based on pooled industry data. Does not include expenses or profit — carriers add those via a loss cost multiplier. The foundation of most personal lines rates.
+
+**Catastrophe Model (Cat Model)**: A computer simulation that estimates potential losses from catastrophic events (hurricanes, earthquakes, wildfires). The three dominant vendors are RMS (Moody's), AIR (Verisk), and CoreLogic (Cotality). Cat model output drives the catastrophe loading in premiums.
+
+**CEA (California Earthquake Authority)**: A publicly managed, privately funded entity that provides residential earthquake coverage in California. Most private insurers don't write earthquake directly — they offer CEA policies instead. High deductibles (5-25% of dwelling coverage).
+
+**Citizens Property Insurance**: Florida's state-created insurer of last resort for property insurance. The largest residual market insurer in the U.S. Writes both wind-only and multi-peril homeowners policies for risks that can't find coverage in the voluntary market.
+
+**Credit-Based Insurance Score (CBIS)**: A score derived from credit report data, designed to predict insurance claim likelihood. Not the same as a FICO score. Impact can be 2-3x on premium. Banned in California, Hawaii, Massachusetts, and Michigan (auto). See [Rating Deep Dive](05-rating-deep-dive.md) for details.
+
+**Loss Cost Multiplier (LCM)**: The factor a carrier applies to ISO advisory loss costs to add its own expense and profit provisions. An LCM of 1.35 means the carrier adds 35% on top of the pure loss cost.
+
+**MCCA (Michigan Catastrophic Claims Association)**: A mandatory reinsurance mechanism unique to Michigan that pools catastrophic auto injury claims above a set retention level. Funded by per-vehicle assessments on all auto insurers in the state.
+
+**Proposition 103**: A 1988 California ballot initiative that established strict prior-approval rate regulation, banned credit scores for auto rating, and limited auto rating factors to driving record, annual mileage, and years of experience.
+
+**SERFF (System for Electronic Rate and Form Filing)**: The NAIC's electronic platform used in nearly every state for insurers to submit rate and form filings to regulators.
+
+**Telematics**: Technology (OBD-II device, smartphone app, or connected car system) that collects real-time driving data — mileage, braking, acceleration, time of day — for use in auto insurance rating. All current U.S. programs are opt-in.
+
+**TWIA (Texas Windstorm Insurance Association)**: Created in 1971 to provide wind and hail coverage for 14 Texas coastal counties where the voluntary market has retreated. Rates are filed annually with TDI.
+
 ---
 
 [Back to README](../README.md)

@@ -52,7 +52,7 @@ This is a critical exam topic:
 ### What's a "Covered Auto"?
 
 - Vehicles listed on the declarations page
-- Newly acquired vehicles (coverage applies for limited period — typically 14 days for broadening coverage, 4 days to report if same type)
+- Newly acquired vehicles (must notify insurer within 14 days; if the policy has no existing physical damage coverage, the window is only 4 days to request it)
 - Trailers
 - Temporary substitute vehicles (when your car is broken down)
 
@@ -108,7 +108,7 @@ Everything else: theft, fire, hail, flood, vandalism, hitting an animal, glass b
 - Collision with an animal = OTC (not collision) — this matters because OTC claims often don't raise your rates
 
 ### Transportation Expenses
-If your covered auto is stolen, the policy pays up to **$20/day, $600 max** for rental or transportation while it's missing. (For collision losses, this isn't automatically included — need a rental reimbursement endorsement.)
+If your covered auto is stolen, the policy pays up to **$30/day, $900 max** for rental or transportation while it's missing (ISO increased these limits from $20/$600 effective 2018). Coverage begins 48 hours after the theft. (For collision losses, this isn't automatically included — need a rental reimbursement endorsement.)
 
 ---
 
@@ -162,7 +162,7 @@ Some states are "no-fault" — your own insurer pays your injuries regardless of
 - PIP is broader than Med Pay: covers lost wages, essential services, funeral expenses
 - You can only sue the at-fault driver if injuries exceed a threshold (dollar amount or verbal — like "serious injury")
 
-**No-fault states include**: Florida, Michigan, New York, New Jersey, Pennsylvania, Hawaii, Kansas, Kentucky, Massachusetts, Minnesota, North Dakota, Utah
+**No-fault states include**: Florida (transitioning to tort system July 1, 2026), Michigan, New York, New Jersey, Pennsylvania, Hawaii, Kansas, Kentucky, Massachusetts, Minnesota, North Dakota, Utah
 
 ---
 
@@ -215,6 +215,18 @@ Your own PIP coverage. In no-fault states, your own insurer pays your medical an
 <summary>Answer</summary>
 Yes. Family members (residents of your household related by blood, marriage, or adoption) are insureds under your PAP for any auto — even ones not listed on your policy. Your coverage would be excess to the friend's policy (which is primary since it follows the car).
 </details>
+
+---
+
+## Sources
+
+1. Insurance Services Office (ISO), "Personal Auto Policy PP 00 01 09 18," 2018. [iso.com](https://www.iso.com)
+2. Insurance Information Institute (III), "Background on: No-fault Auto Insurance," 2025. [iii.org](https://www.iii.org/article/background-on-no-fault-auto-insurance)
+3. Nationwide, "States with No-Fault Insurance," 2025. [nationwide.com](https://www.nationwide.com/lc/resources/auto-insurance/articles/no-fault-insurance-states)
+4. Independent Insurance Agents & Brokers of Louisiana, "2018 ISO PAP Technical Advisory," 2019. [iiabl.com](https://www.iiabl.com)
+5. Ohio Insurance Agents, "New Tune: Understanding ISO's Recent Changes to the PAP," 2019. [ohioinsuranceagents.com](https://ohioinsuranceagents.com/blog/2019/new-tune-understanding-isos-recent-changes-to-the-pap/)
+6. IRMI (International Risk Management Institute), "Transportation Expenses Definition," 2025. [irmi.com](https://www.irmi.com/term/insurance-definitions/transportation-expenses)
+7. MoneyGeek, "State Minimum Car Insurance Requirements," 2026. [moneygeek.com](https://www.moneygeek.com/insurance/auto/state-minimum-car-insurance-requirements/)
 
 ---
 

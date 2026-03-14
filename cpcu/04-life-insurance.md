@@ -194,4 +194,17 @@ Universal life has flexible premiums and a cash value that earns a declared inte
 
 ---
 
+## Sources
+
+1. IRS, "Life Insurance & Disability Insurance Proceeds," 2025. [irs.gov](https://www.irs.gov/faqs/interest-dividends-other-types-of-income/life-insurance-disability-insurance-proceeds)
+2. 26 U.S.C. §101, "Certain Death Benefits." [law.cornell.edu](https://www.law.cornell.edu/uscode/text/26/101)
+3. 26 U.S.C. §7702A, "Modified Endowment Contract Defined." [law.cornell.edu](https://www.law.cornell.edu/uscode/text/26/7702A)
+4. ACLI (American Council of Life Insurers), "Life Insurance Basics," 2024. [acli.com](https://www.acli.com/life-insurance)
+5. NAIC, "Standard Policy Provisions and Optional Riders." [ncdoi.gov](https://www.ncdoi.gov/consumers/life-insurance/standard-policy-provisions-and-optional-riders)
+6. III (Insurance Information Institute), "Facts + Statistics: Life Insurance," 2024. [iii.org](https://www.iii.org/fact-statistic/facts-statistics-life-insurance)
+7. Debofsky Law, "Life Insurance Incontestability Clauses," 2022. [debofsky.com](https://www.debofsky.com/articles/incontestability-clause/)
+8. Western & Southern Financial Group, "Life Insurance Suicide Exclusion: Meaning & Function." [westernsouthern.com](https://www.westernsouthern.com/life-insurance/life-insurance-suicide-exclusion)
+
+---
+
 [Next: Health & Disability Insurance](05-health-disability.md)

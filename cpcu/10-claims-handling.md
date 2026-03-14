@@ -39,7 +39,7 @@ The adjuster answers three questions:
 Determine how much the loss is worth:
 - **Property claims**: Repair estimates, contractor bids, replacement cost vs ACV
 - **Liability/BI claims**: Medical bills, lost wages, pain and suffering, future care
-- **Total loss**: If repair exceeds a threshold (usually 70-80% of value), the vehicle or property is "totaled"
+- **Total loss**: If repair exceeds a threshold (typically 70–75% of actual cash value, though this varies by state — some states set it as high as 100%), the vehicle is "totaled"
 
 ### Step 5: Negotiation and Settlement
 - **First-party claims** (your own policy): Adjuster and insured agree on the amount
@@ -181,7 +181,7 @@ Likely yes. Unreasonable delay on a straightforward claim plus a lowball offer w
 
 <details>
 <summary>Answer</summary>
-Your insurer subromates against the at-fault driver's insurer. You paid $500 (deductible) and your insurer paid $7,500. If subrogation is successful, your insurer recovers the $7,500 and you get your $500 deductible back.
+Your insurer subrogates against the at-fault driver's insurer. You paid $500 (deductible) and your insurer paid $7,500. If subrogation is successful, your insurer recovers the $7,500 and you get your $500 deductible back.
 </details>
 
 **4.** A homeowner and insurer agree the house fire is covered but disagree on whether the damage is $80,000 or $120,000. How is this resolved?
@@ -197,6 +197,18 @@ Through the appraisal process. Each side selects an appraiser, the two appraiser
 <summary>Answer</summary>
 Investigate thoroughly. This is a red flag (claim shortly after inception) suggesting possible pre-existing damage. The adjuster should inspect the damage, check for evidence of long-term water intrusion (staining patterns, mold growth), review the application and any prior inspection, and potentially engage an engineer. Pre-existing damage would not be covered.
 </details>
+
+---
+
+## Sources
+
+1. NAIC, "Unfair Claims Settlement Practices Act" (Model Act). [naic.org](https://content.naic.org/)
+2. Insurance Information Institute (III), "How Insurance Claims Work." [iii.org](https://www.iii.org/)
+3. ISO / Verisk, *Personal Auto Policy (PP 00 01 09 18)*, transportation expenses and coverage analysis. [verisk.com](https://www.verisk.com/)
+4. WalletHub, "Total Loss Threshold by State," 2026. [wallethub.com](https://wallethub.com/edu/ci/total-loss-threshold-by-state/104642)
+5. National Association of Insurance Commissioners (NAIC), "Property/Casualty Claims Best Practices." [naic.org](https://content.naic.org/)
+6. International Risk Management Institute (IRMI), "Appraisal Clause" and "Subrogation" definitions. [irmi.com](https://www.irmi.com/)
+7. CPCU Society / The Institutes, *CPCU 556: Personal Risk Management and Insurance*, course materials.
 
 ---
 
